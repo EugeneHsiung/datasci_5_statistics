@@ -1,0 +1,1195 @@
+Year,quarter,Bene_Geo_Desc,Bene_Mdcd_Mdcr_Enrl_Stus,Bene_Race_Desc,Bene_Sex_Desc,Bene_Mdcr_Entlmt_Stus,Bene_Age_Desc,Bene_RUCA_Desc,Total_Bene_TH_Elig,Total_PartB_Enrl,Total_Bene_Telehealth,Pct_Telehealth
+2023,1,Alabama,All,All,All,Aged,All,All,272828,338844,17353,0.0636
+2023,1,Alabama,All,All,All,All,0-64,All,40304,57509,4916,0.122
+2023,1,Alabama,All,All,All,All,65-74,All,132911,173380,8814,0.0663
+2023,1,Alabama,All,All,All,All,75-84,All,101540,119882,6290,0.0619
+2023,1,Alabama,All,All,All,All,85 and over,All,40435,47623,2438,0.0603
+2023,1,Alabama,All,All,All,All,All,All,315190,398394,22458,0.0713
+2023,1,Alabama,All,All,All,All,All,Rural,89729,113891,5928,0.0661
+2023,1,Alabama,All,All,All,All,All,Urban,224778,283581,16454,0.0732
+2023,1,Alabama,All,All,All,Disabled,All,All,38287,55395,4722,0.1233
+2023,1,Alabama,All,All,All,ESRD,All,All,4075,4155,383,0.094
+2023,1,Alabama,All,All,Female,All,All,All,179810,218620,13930,0.0775
+2023,1,Alabama,All,All,Male,All,All,All,135380,179774,8528,0.063
+2023,1,Alabama,All,American Indian/Alaska Native,All,All,All,All,266,333,29,0.109
+2023,1,Alabama,All,Asian/Pacific Islander,All,All,All,All,1818,2810,116,0.0638
+2023,1,Alabama,All,Black/African American,All,All,All,All,44165,61686,3376,0.0764
+2023,1,Alabama,All,Hispanic,All,All,All,All,2645,3982,182,0.0688
+2023,1,Alabama,All,Non-Hispanic White,All,All,All,All,261439,322946,18376,0.0703
+2023,1,Alabama,Medicare & Medicaid,All,All,All,All,All,48785,63321,4657,0.0955
+2023,1,Alabama,Medicare Only,All,All,All,All,All,266405,335073,17801,0.0668
+2023,1,Alaska,All,All,All,Aged,All,All,55909,87474,8108,0.145
+2023,1,Alaska,All,All,All,All,0-64,All,6802,10011,1800,0.2646
+2023,1,Alaska,All,All,All,All,65-74,All,33302,54898,4974,0.1494
+2023,1,Alaska,All,All,All,All,75-84,All,17892,26101,2480,0.1386
+2023,1,Alaska,All,All,All,All,85 and over,All,5016,6799,700,0.1396
+2023,1,Alaska,All,All,All,All,All,All,63012,97809,9954,0.158
+2023,1,Alaska,All,All,All,All,All,Rural,29776,46750,5007,0.1682
+2023,1,Alaska,All,All,All,All,All,Urban,30994,47316,4540,0.1465
+2023,1,Alaska,All,All,All,Disabled,All,All,6472,9659,1741,0.269
+2023,1,Alaska,All,All,All,ESRD,All,All,631,676,105,0.1664
+2023,1,Alaska,All,All,Female,All,All,All,34289,49688,5861,0.1709
+2023,1,Alaska,All,All,Male,All,All,All,28723,48122,4093,0.1425
+2023,1,Alaska,All,American Indian/Alaska Native,All,All,All,All,7300,10523,1573,0.2155
+2023,1,Alaska,All,Asian/Pacific Islander,All,All,All,All,2390,4210,231,0.0967
+2023,1,Alaska,All,Black/African American,All,All,All,All,1530,2431,257,0.168
+2023,1,Alaska,All,Hispanic,All,All,All,All,1600,2818,219,0.1369
+2023,1,Alaska,All,Non-Hispanic White,All,All,All,All,47439,73146,7228,0.1524
+2023,1,Alaska,Medicare & Medicaid,All,All,All,All,All,14432,20740,3164,0.2192
+2023,1,Alaska,Medicare Only,All,All,All,All,All,48580,77070,6790,0.1398
+2023,1,Arizona,All,All,All,Aged,All,All,455090,591387,66462,0.146
+2023,1,Arizona,All,All,All,All,0-64,All,23806,36343,7516,0.3157
+2023,1,Arizona,All,All,All,All,65-74,All,232884,321472,35847,0.1539
+2023,1,Arizona,All,All,All,All,75-84,All,170750,208349,24380,0.1428
+2023,1,Arizona,All,All,All,All,85 and over,All,54021,64123,6833,0.1265
+2023,1,Arizona,All,All,All,All,All,All,481461,630287,74576,0.1549
+2023,1,Arizona,All,All,All,All,All,Rural,63102,90697,9630,0.1526
+2023,1,Arizona,All,All,All,All,All,Urban,417137,537817,64795,0.1553
+2023,1,Arizona,All,All,All,Disabled,All,All,21792,34190,7022,0.3222
+2023,1,Arizona,All,All,All,ESRD,All,All,4579,4710,1092,0.2385
+2023,1,Arizona,All,All,Female,All,All,All,268256,338890,43800,0.1633
+2023,1,Arizona,All,All,Male,All,All,All,213205,291398,30776,0.1443
+2023,1,Arizona,All,American Indian/Alaska Native,All,All,All,All,13795,19028,2253,0.1633
+2023,1,Arizona,All,Asian/Pacific Islander,All,All,All,All,7465,10853,940,0.1259
+2023,1,Arizona,All,Black/African American,All,All,All,All,9723,13856,1927,0.1982
+2023,1,Arizona,All,Hispanic,All,All,All,All,31386,49523,4951,0.1577
+2023,1,Arizona,All,Non-Hispanic White,All,All,All,All,403707,516085,62167,0.154
+2023,1,Arizona,Medicare & Medicaid,All,All,All,All,All,43213,64154,10000,0.2314
+2023,1,Arizona,Medicare Only,All,All,All,All,All,438248,566134,64576,0.1474
+2023,1,Arkansas,All,All,All,Aged,All,All,227936,291783,21611,0.0948
+2023,1,Arkansas,All,All,All,All,0-64,All,30629,43414,5988,0.1955
+2023,1,Arkansas,All,All,All,All,65-74,All,113408,152735,10979,0.0968
+2023,1,Arkansas,All,All,All,All,75-84,All,84331,102572,7745,0.0918
+2023,1,Arkansas,All,All,All,All,85 and over,All,31602,37900,3109,0.0984
+2023,1,Arkansas,All,All,All,All,All,All,259970,336622,27821,0.107
+2023,1,Arkansas,All,All,All,All,All,Rural,115855,151231,10502,0.0906
+2023,1,Arkansas,All,All,All,All,All,Urban,143007,183912,17201,0.1203
+2023,1,Arkansas,All,All,All,Disabled,All,All,29351,42072,5748,0.1958
+2023,1,Arkansas,All,All,All,ESRD,All,All,2683,2766,462,0.1722
+2023,1,Arkansas,All,All,Female,All,All,All,148593,184435,17017,0.1145
+2023,1,Arkansas,All,All,Male,All,All,All,111377,152187,10804,0.097
+2023,1,Arkansas,All,American Indian/Alaska Native,All,All,All,All,777,966,102,0.1313
+2023,1,Arkansas,All,Asian/Pacific Islander,All,All,All,All,1479,2338,129,0.0872
+2023,1,Arkansas,All,Black/African American,All,All,All,All,19168,26755,2417,0.1261
+2023,1,Arkansas,All,Hispanic,All,All,All,All,3129,5258,307,0.0981
+2023,1,Arkansas,All,Non-Hispanic White,All,All,All,All,231536,295972,24368,0.1052
+2023,1,Arkansas,Medicare & Medicaid,All,All,All,All,All,42320,55217,7067,0.167
+2023,1,Arkansas,Medicare Only,All,All,All,All,All,217650,281405,20754,0.0954
+2023,1,California,All,All,All,Aged,All,All,1828037,2502547,472170,0.2583
+2023,1,California,All,All,All,All,0-64,All,204654,293586,84792,0.4143
+2023,1,California,All,All,All,All,65-74,All,912968,1335010,246410,0.2699
+2023,1,California,All,All,All,All,75-84,All,655147,836693,163993,0.2503
+2023,1,California,All,All,All,All,85 and over,All,277791,348899,67189,0.2419
+2023,1,California,All,All,All,All,All,All,2050560,2814188,562384,0.2743
+2023,1,California,All,All,All,All,All,Rural,219752,309723,55598,0.253
+2023,1,California,All,All,All,All,All,Urban,1829965,2502641,506561,0.2768
+2023,1,California,All,All,All,Disabled,All,All,190250,278181,80096,0.421
+2023,1,California,All,All,All,ESRD,All,All,32273,33459,10118,0.3135
+2023,1,California,All,All,Female,All,All,All,1165606,1541068,337614,0.2896
+2023,1,California,All,All,Male,All,All,All,884954,1273120,224770,0.254
+2023,1,California,All,American Indian/Alaska Native,All,All,All,All,7587,10224,2208,0.291
+2023,1,California,All,Asian/Pacific Islander,All,All,All,All,242780,356906,63727,0.2625
+2023,1,California,All,Black/African American,All,All,All,All,93282,137215,30849,0.3307
+2023,1,California,All,Hispanic,All,All,All,All,314655,500140,87977,0.2796
+2023,1,California,All,Non-Hispanic White,All,All,All,All,1300677,1681697,352379,0.2709
+2023,1,California,Medicare & Medicaid,All,All,All,All,All,679992,942643,224285,0.3298
+2023,1,California,Medicare Only,All,All,All,All,All,1370568,1871545,338099,0.2467
+2023,1,Colorado,All,All,All,Aged,All,All,272073,377548,37618,0.1383
+2023,1,Colorado,All,All,All,All,0-64,All,24981,36058,8304,0.3324
+2023,1,Colorado,All,All,All,All,65-74,All,149362,219567,21779,0.1458
+2023,1,Colorado,All,All,All,All,75-84,All,91392,118837,11950,0.1308
+2023,1,Colorado,All,All,All,All,85 and over,All,32589,40444,4193,0.1287
+2023,1,Colorado,All,All,All,All,All,All,298324,414905,46226,0.155
+2023,1,Colorado,All,All,All,All,All,Rural,70332,103467,9977,0.1419
+2023,1,Colorado,All,All,All,All,All,Unknown,,,,
+2023,1,Colorado,All,All,All,All,All,Urban,227831,311156,36225,0.159
+2023,1,Colorado,All,All,All,Disabled,All,All,23828,34790,8019,0.3365
+2023,1,Colorado,All,All,All,ESRD,All,All,2423,2566,589,0.2431
+2023,1,Colorado,All,All,Female,All,All,All,165233,220151,27332,0.1654
+2023,1,Colorado,All,All,Male,All,All,All,133091,194754,18894,0.142
+2023,1,Colorado,All,American Indian/Alaska Native,All,All,All,All,795,1080,152,0.1912
+2023,1,Colorado,All,Asian/Pacific Islander,All,All,All,All,4852,7586,653,0.1346
+2023,1,Colorado,All,Black/African American,All,All,All,All,6613,10025,1195,0.1807
+2023,1,Colorado,All,Hispanic,All,All,All,All,20586,33483,3354,0.1629
+2023,1,Colorado,All,Non-Hispanic White,All,All,All,All,253546,345959,38996,0.1538
+2023,1,Colorado,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Colorado,Medicare & Medicaid,All,All,All,All,All,44702,62859,11435,0.2558
+2023,1,Colorado,Medicare Only,All,All,All,All,All,253622,352046,34791,0.1372
+2023,1,Connecticut,All,All,All,Aged,All,All,190177,237499,28751,0.1512
+2023,1,Connecticut,All,All,All,All,0-64,All,24514,31488,8303,0.3387
+2023,1,Connecticut,All,All,All,All,65-74,All,81208,108487,13545,0.1668
+2023,1,Connecticut,All,All,All,All,75-84,All,71525,85624,10302,0.144
+2023,1,Connecticut,All,All,All,All,85 and over,All,38784,44712,5174,0.1334
+2023,1,Connecticut,All,All,All,All,All,All,216031,270310,37324,0.1728
+2023,1,Connecticut,All,All,All,All,All,Rural,9416,12000,1521,0.1615
+2023,1,Connecticut,All,All,All,All,All,Unknown,,,,
+2023,1,Connecticut,All,All,All,All,All,Urban,206573,258215,35800,0.1733
+2023,1,Connecticut,All,All,All,Disabled,All,All,23581,30507,8076,0.3425
+2023,1,Connecticut,All,All,All,ESRD,All,All,2273,2304,497,0.2187
+2023,1,Connecticut,All,All,Female,All,All,All,123273,150159,22935,0.1861
+2023,1,Connecticut,All,All,Male,All,All,All,92758,120152,14389,0.1551
+2023,1,Connecticut,All,American Indian/Alaska Native,All,All,All,All,191,235,41,0.2147
+2023,1,Connecticut,All,Asian/Pacific Islander,All,All,All,All,4063,5985,543,0.1336
+2023,1,Connecticut,All,Black/African American,All,All,All,All,10407,14196,1981,0.1904
+2023,1,Connecticut,All,Hispanic,All,All,All,All,11117,15290,2399,0.2158
+2023,1,Connecticut,All,Non-Hispanic White,All,All,All,All,180302,221402,30715,0.1704
+2023,1,Connecticut,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Connecticut,Medicare & Medicaid,All,All,All,All,All,56056,69642,13681,0.2441
+2023,1,Connecticut,Medicare Only,All,All,All,All,All,159975,200668,23643,0.1478
+2023,1,Delaware,All,All,All,Aged,All,All,111033,135000,16279,0.1466
+2023,1,Delaware,All,All,All,All,0-64,All,9489,12307,3420,0.3604
+2023,1,Delaware,All,All,All,All,65-74,All,57648,72842,9224,0.16
+2023,1,Delaware,All,All,All,All,75-84,All,40511,47264,5581,0.1378
+2023,1,Delaware,All,All,All,All,85 and over,All,13591,15609,1632,0.1201
+2023,1,Delaware,All,All,All,All,All,All,121239,148021,19857,0.1638
+2023,1,Delaware,All,All,All,All,All,Rural,39804,47450,5502,0.1382
+2023,1,Delaware,All,All,All,All,All,Unknown,,,,
+2023,1,Delaware,All,All,All,All,All,Urban,81392,100512,14348,0.1763
+2023,1,Delaware,All,All,All,Disabled,All,All,8990,11773,3306,0.3677
+2023,1,Delaware,All,All,All,ESRD,All,All,1216,1249,272,0.2237
+2023,1,Delaware,All,All,Female,All,All,All,69326,82809,12304,0.1775
+2023,1,Delaware,All,All,Male,All,All,All,51913,65213,7553,0.1455
+2023,1,Delaware,All,American Indian/Alaska Native,All,All,All,All,47,57,,
+2023,1,Delaware,All,Asian/Pacific Islander,All,All,All,All,1810,2625,323,0.1785
+2023,1,Delaware,All,Black/African American,All,All,All,All,14605,18672,2874,0.1968
+2023,1,Delaware,All,Hispanic,All,All,All,All,2442,3426,494,0.2023
+2023,1,Delaware,All,Non-Hispanic White,All,All,All,All,98322,118047,15518,0.1578
+2023,1,Delaware,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Delaware,Medicare & Medicaid,All,All,All,All,All,14713,18601,3869,0.263
+2023,1,Delaware,Medicare Only,All,All,All,All,All,106526,129420,15988,0.1501
+2023,1,District Of Columbia,All,All,All,Aged,All,All,31691,43616,6080,0.1919
+2023,1,District Of Columbia,All,All,All,All,0-64,All,4702,7017,1434,0.305
+2023,1,District Of Columbia,All,All,All,All,65-74,All,14763,21803,3080,0.2086
+2023,1,District Of Columbia,All,All,All,All,75-84,All,11913,15215,2228,0.187
+2023,1,District Of Columbia,All,All,All,All,85 and over,All,5467,7063,853,0.156
+2023,1,District Of Columbia,All,All,All,All,All,All,36845,51097,7595,0.2061
+2023,1,District Of Columbia,All,All,All,All,All,Rural,,,,
+2023,1,District Of Columbia,All,All,All,All,All,Unknown,,,,
+2023,1,District Of Columbia,All,All,All,All,All,Urban,36837,51082,7594,0.2062
+2023,1,District Of Columbia,All,All,All,Disabled,All,All,4263,6542,1339,0.3141
+2023,1,District Of Columbia,All,All,All,ESRD,All,All,891,939,176,0.1975
+2023,1,District Of Columbia,All,All,Female,All,All,All,22188,29280,4727,0.213
+2023,1,District Of Columbia,All,All,Male,All,All,All,14657,21817,2868,0.1957
+2023,1,District Of Columbia,All,American Indian/Alaska Native,All,All,All,All,,,0,
+2023,1,District Of Columbia,All,Asian/Pacific Islander,All,All,All,All,673,1087,107,0.159
+2023,1,District Of Columbia,All,Black/African American,All,All,All,All,19415,27587,3954,0.2037
+2023,1,District Of Columbia,All,Hispanic,All,All,All,All,1405,2423,297,0.2114
+2023,1,District Of Columbia,All,Non-Hispanic White,All,All,All,All,13733,17715,2903,0.2114
+2023,1,District Of Columbia,All,Other/Unknown,All,All,All,All,,,,
+2023,1,District Of Columbia,Medicare & Medicaid,All,All,All,All,All,13516,19170,3113,0.2303
+2023,1,District Of Columbia,Medicare Only,All,All,All,All,All,23329,31927,4482,0.1921
+2023,1,Florida,All,All,All,Aged,All,All,1477651,1797013,172956,0.117
+2023,1,Florida,All,All,All,All,0-64,All,109853,152808,25625,0.2333
+2023,1,Florida,All,All,All,All,65-74,All,688503,893014,85883,0.1247
+2023,1,Florida,All,All,All,All,75-84,All,566128,653002,64725,0.1143
+2023,1,Florida,All,All,All,All,85 and over,All,231823,259722,23931,0.1032
+2023,1,Florida,All,All,All,All,All,All,1596307,1958545,200164,0.1254
+2023,1,Florida,All,All,All,All,All,Rural,57201,73667,6501,0.1137
+2023,1,Florida,All,All,All,All,All,Unknown,,,,
+2023,1,Florida,All,All,All,All,All,Urban,1536759,1881177,193461,0.1259
+2023,1,Florida,All,All,All,Disabled,All,All,102999,145545,24317,0.2361
+2023,1,Florida,All,All,All,ESRD,All,All,15657,15986,2891,0.1846
+2023,1,Florida,All,All,Female,All,All,All,899335,1071947,120075,0.1335
+2023,1,Florida,All,All,Male,All,All,All,696972,886597,80089,0.1149
+2023,1,Florida,All,American Indian/Alaska Native,All,All,All,All,945,1228,125,0.1323
+2023,1,Florida,All,Asian/Pacific Islander,All,All,All,All,20208,29144,2237,0.1107
+2023,1,Florida,All,Black/African American,All,All,All,All,89012,121666,10718,0.1204
+2023,1,Florida,All,Hispanic,All,All,All,All,106054,144951,17606,0.166
+2023,1,Florida,All,Non-Hispanic White,All,All,All,All,1329483,1595910,162738,0.1224
+2023,1,Florida,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Florida,Medicare & Medicaid,All,All,All,All,All,187313,238243,32575,0.1739
+2023,1,Florida,Medicare Only,All,All,All,All,All,1408994,1720302,167589,0.1189
+2023,1,Georgia,All,All,All,Aged,All,All,532261,668430,49985,0.0939
+2023,1,Georgia,All,All,All,All,0-64,All,57520,81475,11070,0.1925
+2023,1,Georgia,All,All,All,All,65-74,All,271620,359481,26768,0.0985
+2023,1,Georgia,All,All,All,All,75-84,All,194647,230682,17523,0.09
+2023,1,Georgia,All,All,All,All,85 and over,All,70412,82649,6373,0.0905
+2023,1,Georgia,All,All,All,All,All,All,594199,754288,61734,0.1039
+2023,1,Georgia,All,All,All,All,All,Rural,114384,144115,9688,0.0847
+2023,1,Georgia,All,All,All,All,All,Unknown,,,,
+2023,1,Georgia,All,All,All,All,All,Urban,479426,609635,52009,0.1085
+2023,1,Georgia,All,All,All,Disabled,All,All,52478,76169,10290,0.1961
+2023,1,Georgia,All,All,All,ESRD,All,All,9460,9689,1459,0.1542
+2023,1,Georgia,All,All,Female,All,All,All,337003,414444,37737,0.112
+2023,1,Georgia,All,All,Male,All,All,All,257196,339844,23997,0.0933
+2023,1,Georgia,All,American Indian/Alaska Native,All,All,All,All,237,330,23,0.097
+2023,1,Georgia,All,Asian/Pacific Islander,All,All,All,All,10773,16162,1185,0.11
+2023,1,Georgia,All,Black/African American,All,All,All,All,93896,130399,11679,0.1244
+2023,1,Georgia,All,Hispanic,All,All,All,All,11004,17712,1149,0.1044
+2023,1,Georgia,All,Non-Hispanic White,All,All,All,All,462944,568899,46021,0.0994
+2023,1,Georgia,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Georgia,Medicare & Medicaid,All,All,All,All,All,85898,111339,13345,0.1554
+2023,1,Georgia,Medicare Only,All,All,All,All,All,508301,642949,48389,0.0952
+2023,1,Hawaii,All,All,All,Aged,All,All,69090,95441,13855,0.2005
+2023,1,Hawaii,All,All,All,All,0-64,All,4100,6559,1486,0.3624
+2023,1,Hawaii,All,All,All,All,65-74,All,33132,49508,6984,0.2108
+2023,1,Hawaii,All,All,All,All,75-84,All,25111,32117,4890,0.1947
+2023,1,Hawaii,All,All,All,All,85 and over,All,11688,14682,2236,0.1913
+2023,1,Hawaii,All,All,All,All,All,All,74031,102866,15596,0.2107
+2023,1,Hawaii,All,All,All,All,All,Rural,22669,33284,4272,0.1885
+2023,1,Hawaii,All,All,All,All,All,Unknown,,,,
+2023,1,Hawaii,All,All,All,All,All,Urban,51356,69548,11323,0.2205
+2023,1,Hawaii,All,All,All,Disabled,All,All,3377,5778,1211,0.3586
+2023,1,Hawaii,All,All,All,ESRD,All,All,1564,1647,530,0.3389
+2023,1,Hawaii,All,All,Female,All,All,All,40829,54464,8916,0.2184
+2023,1,Hawaii,All,All,Male,All,All,All,33202,48402,6680,0.2012
+2023,1,Hawaii,All,American Indian/Alaska Native,All,All,All,All,75,102,18,0.24
+2023,1,Hawaii,All,Asian/Pacific Islander,All,All,All,All,35984,48372,7365,0.2047
+2023,1,Hawaii,All,Black/African American,All,All,All,All,611,1153,137,0.2242
+2023,1,Hawaii,All,Hispanic,All,All,All,All,3659,5730,749,0.2047
+2023,1,Hawaii,All,Non-Hispanic White,All,All,All,All,23492,33511,5292,0.2253
+2023,1,Hawaii,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Hawaii,Medicare & Medicaid,All,All,All,All,All,6395,10414,1759,0.2751
+2023,1,Hawaii,Medicare Only,All,All,All,All,All,67636,92451,13837,0.2046
+2023,1,Idaho,All,All,All,Aged,All,All,110442,158731,7457,0.0675
+2023,1,Idaho,All,All,All,All,0-64,All,12542,18615,2386,0.1902
+2023,1,Idaho,All,All,All,All,65-74,All,58285,88871,4217,0.0724
+2023,1,Idaho,All,All,All,All,75-84,All,38973,52638,2511,0.0644
+2023,1,Idaho,All,All,All,All,85 and over,All,13713,17768,811,0.0591
+2023,1,Idaho,All,All,All,All,All,All,123513,177892,9925,0.0804
+2023,1,Idaho,All,All,All,All,All,Rural,49783,76072,3865,0.0776
+2023,1,Idaho,All,All,All,All,All,Unknown,,,,
+2023,1,Idaho,All,All,All,All,All,Urban,73726,101803,6060,0.0822
+2023,1,Idaho,All,All,All,Disabled,All,All,12093,18137,2296,0.1899
+2023,1,Idaho,All,All,All,ESRD,All,All,978,1023,172,0.1759
+2023,1,Idaho,All,All,Female,All,All,All,67236,92356,5737,0.0853
+2023,1,Idaho,All,All,Male,All,All,All,56277,85536,4188,0.0744
+2023,1,Idaho,All,American Indian/Alaska Native,All,All,All,All,897,1270,77,0.0858
+2023,1,Idaho,All,Asian/Pacific Islander,All,All,All,All,957,1479,67,0.07
+2023,1,Idaho,All,Black/African American,All,All,All,All,313,467,42,0.1342
+2023,1,Idaho,All,Hispanic,All,All,All,All,3818,6436,302,0.0791
+2023,1,Idaho,All,Non-Hispanic White,All,All,All,All,114096,163097,9122,0.08
+2023,1,Idaho,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Idaho,Medicare & Medicaid,All,All,All,All,All,16620,24162,2510,0.151
+2023,1,Idaho,Medicare Only,All,All,All,All,All,106893,153730,7415,0.0694
+2023,1,Illinois,All,All,All,Aged,All,All,810428,1079068,88489,0.1092
+2023,1,Illinois,All,All,All,All,0-64,All,87738,117314,22132,0.2523
+2023,1,Illinois,All,All,All,All,65-74,All,401697,567138,45620,0.1136
+2023,1,Illinois,All,All,All,All,75-84,All,289047,365062,30920,0.107
+2023,1,Illinois,All,All,All,All,85 and over,All,126557,153712,13238,0.1046
+2023,1,Illinois,All,All,All,All,All,All,905039,1203227,111910,0.1237
+2023,1,Illinois,All,All,All,All,All,Rural,162611,219025,12412,0.0763
+2023,1,Illinois,All,All,All,All,All,Unknown,,,,
+2023,1,Illinois,All,All,All,All,All,Urban,742230,983794,99471,0.134
+2023,1,Illinois,All,All,All,Disabled,All,All,82600,111916,21084,0.2553
+2023,1,Illinois,All,All,All,ESRD,All,All,12011,12242,2337,0.1946
+2023,1,Illinois,All,All,Female,All,All,All,517863,669084,69207,0.1336
+2023,1,Illinois,All,All,Male,All,All,All,387176,534143,42703,0.1103
+2023,1,Illinois,All,American Indian/Alaska Native,All,All,All,All,300,403,44,0.1467
+2023,1,Illinois,All,Asian/Pacific Islander,All,All,All,All,23370,34856,2897,0.124
+2023,1,Illinois,All,Black/African American,All,All,All,All,75656,101943,13018,0.1721
+2023,1,Illinois,All,Hispanic,All,All,All,All,43773,68592,6632,0.1515
+2023,1,Illinois,All,Non-Hispanic White,All,All,All,All,734574,959114,85866,0.1169
+2023,1,Illinois,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Illinois,Medicare & Medicaid,All,All,All,All,All,168448,212673,33387,0.1982
+2023,1,Illinois,Medicare Only,All,All,All,All,All,736591,990554,78523,0.1066
+2023,1,Indiana,All,All,All,Aged,All,All,422566,548974,31260,0.074
+2023,1,Indiana,All,All,All,All,0-64,All,52772,71329,10736,0.2034
+2023,1,Indiana,All,All,All,All,65-74,All,221842,304518,17409,0.0785
+2023,1,Indiana,All,All,All,All,75-84,All,144316,177465,10134,0.0702
+2023,1,Indiana,All,All,All,All,85 and over,All,59139,69721,4068,0.0688
+2023,1,Indiana,All,All,All,All,All,All,478069,623033,42347,0.0886
+2023,1,Indiana,All,All,All,All,All,Rural,135204,177108,10887,0.0805
+2023,1,Indiana,All,All,All,All,All,Unknown,,,,
+2023,1,Indiana,All,All,All,All,All,Urban,342677,445629,31444,0.0918
+2023,1,Indiana,All,All,All,Disabled,All,All,50647,69039,10480,0.2069
+2023,1,Indiana,All,All,All,ESRD,All,All,4856,5020,607,0.125
+2023,1,Indiana,All,All,Female,All,All,All,272573,344508,25755,0.0945
+2023,1,Indiana,All,All,Male,All,All,All,205496,278526,16592,0.0807
+2023,1,Indiana,All,American Indian/Alaska Native,All,All,All,All,187,245,34,0.1818
+2023,1,Indiana,All,Asian/Pacific Islander,All,All,All,All,3287,5220,258,0.0785
+2023,1,Indiana,All,Black/African American,All,All,All,All,21390,29050,2766,0.1293
+2023,1,Indiana,All,Hispanic,All,All,All,All,7485,11319,808,0.1079
+2023,1,Indiana,All,Non-Hispanic White,All,All,All,All,432066,558366,37258,0.0862
+2023,1,Indiana,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Indiana,Medicare & Medicaid,All,All,All,All,All,81799,102647,13585,0.1661
+2023,1,Indiana,Medicare Only,All,All,All,All,All,396270,520386,28762,0.0726
+2023,1,Iowa,All,All,All,Aged,All,All,267504,359664,14783,0.0553
+2023,1,Iowa,All,All,All,All,0-64,All,23159,32364,4740,0.2047
+2023,1,Iowa,All,All,All,All,65-74,All,137979,195433,7774,0.0563
+2023,1,Iowa,All,All,All,All,75-84,All,89699,115373,4831,0.0539
+2023,1,Iowa,All,All,All,All,85 and over,All,41042,50078,2360,0.0575
+2023,1,Iowa,All,All,All,All,All,All,291879,393247,19705,0.0675
+2023,1,Iowa,All,All,All,All,All,Rural,157867,215266,11051,0.07
+2023,1,Iowa,All,All,All,All,All,Unknown,,,,
+2023,1,Iowa,All,All,All,All,All,Urban,133895,177825,8630,0.0645
+2023,1,Iowa,All,All,All,Disabled,All,All,22291,31423,4639,0.2081
+2023,1,Iowa,All,All,All,ESRD,All,All,2084,2161,283,0.1358
+2023,1,Iowa,All,All,Female,All,All,All,164555,215401,11789,0.0716
+2023,1,Iowa,All,All,Male,All,All,All,127324,177847,7916,0.0622
+2023,1,Iowa,All,American Indian/Alaska Native,All,All,All,All,293,395,32,0.1092
+2023,1,Iowa,All,Asian/Pacific Islander,All,All,All,All,1507,2489,107,0.071
+2023,1,Iowa,All,Black/African American,All,All,All,All,2777,4068,261,0.094
+2023,1,Iowa,All,Hispanic,All,All,All,All,2765,4693,234,0.0846
+2023,1,Iowa,All,Non-Hispanic White,All,All,All,All,277042,370936,18505,0.0668
+2023,1,Iowa,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Iowa,Medicare & Medicaid,All,All,All,All,All,33735,44482,6223,0.1845
+2023,1,Iowa,Medicare Only,All,All,All,All,All,258144,348766,13482,0.0522
+2023,1,Kansas,All,All,All,Aged,All,All,244334,317933,16769,0.0686
+2023,1,Kansas,All,All,All,All,0-64,All,22877,31095,4587,0.2005
+2023,1,Kansas,All,All,All,All,65-74,All,126593,173859,9112,0.072
+2023,1,Kansas,All,All,All,All,75-84,All,82993,102510,5473,0.0659
+2023,1,Kansas,All,All,All,All,85 and over,All,35958,42793,2337,0.065
+2023,1,Kansas,All,All,All,All,All,All,268421,350258,21509,0.0801
+2023,1,Kansas,All,All,All,All,All,Rural,125938,166890,9929,0.0788
+2023,1,Kansas,All,All,All,All,All,Unknown,,,,
+2023,1,Kansas,All,All,All,All,All,Urban,142169,182891,11554,0.0813
+2023,1,Kansas,All,All,All,Disabled,All,All,21940,30072,4449,0.2028
+2023,1,Kansas,All,All,All,ESRD,All,All,2147,2253,291,0.1355
+2023,1,Kansas,All,All,Female,All,All,All,151743,192583,13108,0.0864
+2023,1,Kansas,All,All,Male,All,All,All,116678,157675,8401,0.072
+2023,1,Kansas,All,American Indian/Alaska Native,All,All,All,All,1001,1359,108,0.1079
+2023,1,Kansas,All,Asian/Pacific Islander,All,All,All,All,2217,3491,140,0.0631
+2023,1,Kansas,All,Black/African American,All,All,All,All,6474,9174,651,0.1006
+2023,1,Kansas,All,Hispanic,All,All,All,All,7524,11230,553,0.0735
+2023,1,Kansas,All,Non-Hispanic White,All,All,All,All,244611,315967,19509,0.0798
+2023,1,Kansas,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Kansas,Medicare & Medicaid,All,All,All,All,All,29118,36396,5051,0.1735
+2023,1,Kansas,Medicare Only,All,All,All,All,All,239303,313862,16458,0.0688
+2023,1,Kentucky,All,All,All,Aged,All,All,275234,350938,21221,0.0771
+2023,1,Kentucky,All,All,All,All,0-64,All,43241,59543,8561,0.198
+2023,1,Kentucky,All,All,All,All,65-74,All,147244,195392,11748,0.0798
+2023,1,Kentucky,All,All,All,All,75-84,All,93228,113905,6722,0.0721
+2023,1,Kentucky,All,All,All,All,85 and over,All,36367,43252,2917,0.0802
+2023,1,Kentucky,All,All,All,All,All,All,320080,412092,29948,0.0936
+2023,1,Kentucky,All,All,All,All,All,Rural,154022,201805,16339,0.1061
+2023,1,Kentucky,All,All,All,All,All,Unknown,,,,
+2023,1,Kentucky,All,All,All,All,All,Urban,164880,208740,13447,0.0816
+2023,1,Kentucky,All,All,All,Disabled,All,All,41987,58242,8379,0.1996
+2023,1,Kentucky,All,All,All,ESRD,All,All,2859,2912,348,0.1217
+2023,1,Kentucky,All,All,Female,All,All,All,178115,219540,18139,0.1018
+2023,1,Kentucky,All,All,Male,All,All,All,141965,192552,11809,0.0832
+2023,1,Kentucky,All,American Indian/Alaska Native,All,All,All,All,107,154,,
+2023,1,Kentucky,All,Asian/Pacific Islander,All,All,All,All,1864,2917,151,0.081
+2023,1,Kentucky,All,Black/African American,All,All,All,All,12921,17520,1214,0.094
+2023,1,Kentucky,All,Hispanic,All,All,All,All,2295,3320,220,0.0959
+2023,1,Kentucky,All,Non-Hispanic White,All,All,All,All,296328,379291,27775,0.0937
+2023,1,Kentucky,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Kentucky,Medicare & Medicaid,All,All,All,All,All,62051,78648,10753,0.1733
+2023,1,Kentucky,Medicare Only,All,All,All,All,All,258029,333444,19195,0.0744
+2023,1,Louisiana,All,All,All,Aged,All,All,255887,318277,15263,0.0596
+2023,1,Louisiana,All,All,All,All,0-64,All,35518,48923,4958,0.1396
+2023,1,Louisiana,All,All,All,All,65-74,All,137415,178260,8637,0.0629
+2023,1,Louisiana,All,All,All,All,75-84,All,87667,103362,4894,0.0558
+2023,1,Louisiana,All,All,All,All,85 and over,All,33061,38889,1940,0.0587
+2023,1,Louisiana,All,All,All,All,All,All,293661,369434,20429,0.0696
+2023,1,Louisiana,All,All,All,All,All,Rural,66187,83796,4138,0.0625
+2023,1,Louisiana,All,All,All,All,All,Unknown,,,,
+2023,1,Louisiana,All,All,All,All,All,Urban,225784,283485,16137,0.0715
+2023,1,Louisiana,All,All,All,Disabled,All,All,33253,46592,4683,0.1408
+2023,1,Louisiana,All,All,All,ESRD,All,All,4521,4565,483,0.1068
+2023,1,Louisiana,All,All,Female,All,All,All,166204,200957,12606,0.0758
+2023,1,Louisiana,All,All,Male,All,All,All,127457,168477,7823,0.0614
+2023,1,Louisiana,All,American Indian/Alaska Native,All,All,All,All,260,335,40,0.1538
+2023,1,Louisiana,All,Asian/Pacific Islander,All,All,All,All,2219,3462,126,0.0568
+2023,1,Louisiana,All,Black/African American,All,All,All,All,54085,71999,4479,0.0828
+2023,1,Louisiana,All,Hispanic,All,All,All,All,5366,7492,437,0.0814
+2023,1,Louisiana,All,Non-Hispanic White,All,All,All,All,225099,277308,14862,0.066
+2023,1,Louisiana,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Louisiana,Medicare & Medicaid,All,All,All,All,All,63097,80282,6654,0.1055
+2023,1,Louisiana,Medicare Only,All,All,All,All,All,230564,289152,13775,0.0597
+2023,1,Maine,All,All,All,Aged,All,All,81349,117879,9667,0.1188
+2023,1,Maine,All,All,All,All,0-64,All,16039,23745,4765,0.2971
+2023,1,Maine,All,All,All,All,65-74,All,36413,56685,4895,0.1344
+2023,1,Maine,All,All,All,All,75-84,All,30659,42501,3472,0.1132
+2023,1,Maine,All,All,All,All,85 and over,All,14698,19124,1374,0.0935
+2023,1,Maine,All,All,All,All,All,All,97809,142055,14506,0.1483
+2023,1,Maine,All,All,All,All,All,Rural,54745,79893,7799,0.1425
+2023,1,Maine,All,All,All,All,All,Unknown,,,,
+2023,1,Maine,All,All,All,All,All,Urban,43055,62137,6704,0.1557
+2023,1,Maine,All,All,All,Disabled,All,All,15690,23379,4679,0.2982
+2023,1,Maine,All,All,All,ESRD,All,All,770,797,160,0.2078
+2023,1,Maine,All,All,Female,All,All,All,54561,75346,8668,0.1589
+2023,1,Maine,All,All,Male,All,All,All,43248,66710,5838,0.135
+2023,1,Maine,All,American Indian/Alaska Native,All,All,All,All,354,485,69,0.1949
+2023,1,Maine,All,Asian/Pacific Islander,All,All,All,All,655,1050,68,0.1038
+2023,1,Maine,All,Black/African American,All,All,All,All,474,762,72,0.1519
+2023,1,Maine,All,Hispanic,All,All,All,All,631,969,120,0.1902
+2023,1,Maine,All,Non-Hispanic White,All,All,All,All,92282,133658,13641,0.1478
+2023,1,Maine,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Maine,Medicare & Medicaid,All,All,All,All,All,28910,39459,6425,0.2222
+2023,1,Maine,Medicare Only,All,All,All,All,All,68899,102596,8081,0.1173
+2023,1,Maryland,All,All,All,Aged,All,All,505003,643440,81783,0.1619
+2023,1,Maryland,All,All,All,All,0-64,All,57825,75528,19141,0.331
+2023,1,Maryland,All,All,All,All,65-74,All,250183,334861,43228,0.1728
+2023,1,Maryland,All,All,All,All,75-84,All,186110,226261,28668,0.154
+2023,1,Maryland,All,All,All,All,85 and over,All,72984,86613,10690,0.1465
+2023,1,Maryland,All,All,All,All,All,All,567102,723263,101727,0.1794
+2023,1,Maryland,All,All,All,All,All,Rural,33045,41281,3899,0.118
+2023,1,Maryland,All,All,All,All,All,Unknown,,,,
+2023,1,Maryland,All,All,All,All,All,Urban,534015,681880,97820,0.1832
+2023,1,Maryland,All,All,All,Disabled,All,All,54772,72295,18479,0.3374
+2023,1,Maryland,All,All,All,ESRD,All,All,7327,7528,1465,0.1999
+2023,1,Maryland,All,All,Female,All,All,All,332987,412786,64402,0.1934
+2023,1,Maryland,All,All,Male,All,All,All,234115,310477,37325,0.1594
+2023,1,Maryland,All,American Indian/Alaska Native,All,All,All,All,255,350,58,0.2275
+2023,1,Maryland,All,Asian/Pacific Islander,All,All,All,All,20295,29558,4076,0.2008
+2023,1,Maryland,All,Black/African American,All,All,All,All,123945,164186,24524,0.1979
+2023,1,Maryland,All,Hispanic,All,All,All,All,13565,20334,2451,0.1807
+2023,1,Maryland,All,Non-Hispanic White,All,All,All,All,388028,480311,66571,0.1716
+2023,1,Maryland,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Maryland,Medicare & Medicaid,All,All,All,All,All,96346,122696,24916,0.2586
+2023,1,Maryland,Medicare Only,All,All,All,All,All,470756,600567,76811,0.1632
+2023,1,Massachusetts,All,All,All,Aged,All,All,550599,699480,115838,0.2104
+2023,1,Massachusetts,All,All,All,All,0-64,All,80441,102905,34985,0.4349
+2023,1,Massachusetts,All,All,All,All,65-74,All,262254,349978,60011,0.2288
+2023,1,Massachusetts,All,All,All,All,75-84,All,206117,251517,41268,0.2002
+2023,1,Massachusetts,All,All,All,All,85 and over,All,85140,100889,15267,0.1793
+2023,1,Massachusetts,All,All,All,All,All,All,633952,805289,151531,0.239
+2023,1,Massachusetts,All,All,All,All,All,Rural,25167,32937,6152,0.2444
+2023,1,Massachusetts,All,All,All,All,All,Unknown,,,,
+2023,1,Massachusetts,All,All,All,All,All,Urban,608605,771994,145337,0.2388
+2023,1,Massachusetts,All,All,All,Disabled,All,All,78796,101204,34522,0.4381
+2023,1,Massachusetts,All,All,All,ESRD,All,All,4557,4606,1171,0.257
+2023,1,Massachusetts,All,All,Female,All,All,All,364064,451322,93004,0.2555
+2023,1,Massachusetts,All,All,Male,All,All,All,269888,353967,58527,0.2169
+2023,1,Massachusetts,All,American Indian/Alaska Native,All,All,All,All,331,444,118,0.3565
+2023,1,Massachusetts,All,Asian/Pacific Islander,All,All,All,All,11370,17764,2256,0.1984
+2023,1,Massachusetts,All,Black/African American,All,All,All,All,22424,30706,5688,0.2537
+2023,1,Massachusetts,All,Hispanic,All,All,All,All,29213,39966,7844,0.2685
+2023,1,Massachusetts,All,Non-Hispanic White,All,All,All,All,542437,678468,128426,0.2368
+2023,1,Massachusetts,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Massachusetts,Medicare & Medicaid,All,All,All,All,All,154748,194807,52056,0.3364
+2023,1,Massachusetts,Medicare Only,All,All,All,All,All,479204,610482,99475,0.2076
+2023,1,Michigan,All,All,All,Aged,All,All,484639,653249,69514,0.1434
+2023,1,Michigan,All,All,All,All,0-64,All,85721,117304,27233,0.3177
+2023,1,Michigan,All,All,All,All,65-74,All,250051,358054,39563,0.1582
+2023,1,Michigan,All,All,All,All,75-84,All,165740,210514,22350,0.1348
+2023,1,Michigan,All,All,All,All,85 and over,All,72767,88588,8392,0.1153
+2023,1,Michigan,All,All,All,All,All,All,574279,774460,97538,0.1698
+2023,1,Michigan,All,All,All,All,All,Rural,138155,196970,18668,0.1351
+2023,1,Michigan,All,All,All,All,All,Unknown,,,,
+2023,1,Michigan,All,All,All,All,All,Urban,435943,577204,78824,0.1808
+2023,1,Michigan,All,All,All,Disabled,All,All,81783,113264,26318,0.3218
+2023,1,Michigan,All,All,All,ESRD,All,All,7857,7947,1706,0.2171
+2023,1,Michigan,All,All,Female,All,All,All,327294,424180,59237,0.181
+2023,1,Michigan,All,All,Male,All,All,All,246985,350280,38301,0.1551
+2023,1,Michigan,All,American Indian/Alaska Native,All,All,All,All,2037,2819,366,0.1797
+2023,1,Michigan,All,Asian/Pacific Islander,All,All,All,All,8128,12538,1429,0.1758
+2023,1,Michigan,All,Black/African American,All,All,All,All,51573,68536,10733,0.2081
+2023,1,Michigan,All,Hispanic,All,All,All,All,9761,14592,1746,0.1789
+2023,1,Michigan,All,Non-Hispanic White,All,All,All,All,483539,648887,79599,0.1646
+2023,1,Michigan,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Michigan,Medicare & Medicaid,All,All,All,All,All,121152,154455,30514,0.2519
+2023,1,Michigan,Medicare Only,All,All,All,All,All,453127,620005,67024,0.1479
+2023,1,Minnesota,All,All,All,Aged,All,All,226271,327830,33051,0.1461
+2023,1,Minnesota,All,All,All,All,0-64,All,46719,64409,17841,0.3819
+2023,1,Minnesota,All,All,All,All,65-74,All,110997,172799,18135,0.1634
+2023,1,Minnesota,All,All,All,All,75-84,All,76375,104645,10710,0.1402
+2023,1,Minnesota,All,All,All,All,85 and over,All,40417,51946,4597,0.1137
+2023,1,Minnesota,All,All,All,All,All,All,274508,393800,51283,0.1868
+2023,1,Minnesota,All,All,All,All,All,Rural,101554,149753,14363,0.1414
+2023,1,Minnesota,All,All,All,All,All,Unknown,,,,
+2023,1,Minnesota,All,All,All,All,All,Urban,172701,243673,36872,0.2135
+2023,1,Minnesota,All,All,All,Disabled,All,All,45073,62643,17352,0.385
+2023,1,Minnesota,All,All,All,ESRD,All,All,3164,3327,880,0.2781
+2023,1,Minnesota,All,All,Female,All,All,All,154982,211566,31030,0.2002
+2023,1,Minnesota,All,All,Male,All,All,All,119526,182233,20253,0.1694
+2023,1,Minnesota,All,American Indian/Alaska Native,All,All,All,All,2387,3328,509,0.2132
+2023,1,Minnesota,All,Asian/Pacific Islander,All,All,All,All,4103,7071,844,0.2057
+2023,1,Minnesota,All,Black/African American,All,All,All,All,7762,11438,2235,0.2879
+2023,1,Minnesota,All,Hispanic,All,All,All,All,3489,5581,814,0.2333
+2023,1,Minnesota,All,Non-Hispanic White,All,All,All,All,247741,352840,44818,0.1809
+2023,1,Minnesota,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Minnesota,Medicare & Medicaid,All,All,All,All,All,55199,73166,18042,0.3269
+2023,1,Minnesota,Medicare Only,All,All,All,All,All,219309,320633,33241,0.1516
+2023,1,Missing Data,All,All,All,All,All,All,,,,
+2023,1,Mississippi,All,All,All,Aged,All,All,241368,297757,13233,0.0548
+2023,1,Mississippi,All,All,All,All,0-64,All,35342,46990,3438,0.0973
+2023,1,Mississippi,All,All,All,All,65-74,All,125557,161293,6628,0.0528
+2023,1,Mississippi,All,All,All,All,75-84,All,86914,102247,4771,0.0549
+2023,1,Mississippi,All,All,All,All,85 and over,All,30946,36222,2004,0.0648
+2023,1,Mississippi,All,All,All,All,All,All,278759,346752,16841,0.0604
+2023,1,Mississippi,All,All,All,All,All,Rural,160870,199382,8770,0.0545
+2023,1,Mississippi,All,All,All,All,All,Unknown,,,,
+2023,1,Mississippi,All,All,All,All,All,Urban,116418,145514,7970,0.0685
+2023,1,Mississippi,All,All,All,Disabled,All,All,32913,44534,3222,0.0979
+2023,1,Mississippi,All,All,All,ESRD,All,All,4478,4461,386,0.0862
+2023,1,Mississippi,All,All,Female,All,All,All,160389,192718,10406,0.0649
+2023,1,Mississippi,All,All,Male,All,All,All,118370,154034,6435,0.0544
+2023,1,Mississippi,All,American Indian/Alaska Native,All,All,All,All,394,503,24,0.0609
+2023,1,Mississippi,All,Asian/Pacific Islander,All,All,All,All,1199,1924,58,0.0484
+2023,1,Mississippi,All,Black/African American,All,All,All,All,54010,70050,3368,0.0624
+2023,1,Mississippi,All,Hispanic,All,All,All,All,1682,2424,109,0.0648
+2023,1,Mississippi,All,Non-Hispanic White,All,All,All,All,218047,267256,13105,0.0601
+2023,1,Mississippi,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Mississippi,Medicare & Medicaid,All,All,All,All,All,54114,66379,4454,0.0823
+2023,1,Mississippi,Medicare Only,All,All,All,All,All,224645,280373,12387,0.0551
+2023,1,Missouri,All,All,All,Aged,All,All,357042,476469,25116,0.0703
+2023,1,Missouri,All,All,All,All,0-64,All,48872,68225,9996,0.2045
+2023,1,Missouri,All,All,All,All,65-74,All,182142,257062,13701,0.0752
+2023,1,Missouri,All,All,All,All,75-84,All,126239,159546,8418,0.0667
+2023,1,Missouri,All,All,All,All,85 and over,All,51106,62346,3299,0.0646
+2023,1,Missouri,All,All,All,All,All,All,408359,547179,35414,0.0867
+2023,1,Missouri,All,All,All,All,All,Rural,142687,199480,11735,0.0822
+2023,1,Missouri,All,All,All,All,All,Unknown,,,,
+2023,1,Missouri,All,All,All,All,All,Urban,265645,347622,23673,0.0891
+2023,1,Missouri,All,All,All,Disabled,All,All,46402,65611,9629,0.2075
+2023,1,Missouri,All,All,All,ESRD,All,All,4915,5099,669,0.1361
+2023,1,Missouri,All,All,Female,All,All,All,231490,298936,21603,0.0933
+2023,1,Missouri,All,All,Male,All,All,All,176869,248244,13811,0.0781
+2023,1,Missouri,All,American Indian/Alaska Native,All,All,All,All,536,702,63,0.1175
+2023,1,Missouri,All,Asian/Pacific Islander,All,All,All,All,2781,4375,219,0.0787
+2023,1,Missouri,All,Black/African American,All,All,All,All,21213,29679,2199,0.1037
+2023,1,Missouri,All,Hispanic,All,All,All,All,4170,6283,470,0.1127
+2023,1,Missouri,All,Non-Hispanic White,All,All,All,All,370371,492997,31593,0.0853
+2023,1,Missouri,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Missouri,Medicare & Medicaid,All,All,All,All,All,58629,73412,10233,0.1745
+2023,1,Missouri,Medicare Only,All,All,All,All,All,349730,473768,25181,0.072
+2023,1,Montana,All,All,All,Aged,All,All,102927,150657,7487,0.0727
+2023,1,Montana,All,All,All,All,0-64,All,9702,14579,2098,0.2162
+2023,1,Montana,All,All,All,All,65-74,All,56969,88348,4440,0.0779
+2023,1,Montana,All,All,All,All,75-84,All,34162,46868,2393,0.07
+2023,1,Montana,All,All,All,All,85 and over,All,12172,15829,702,0.0577
+2023,1,Montana,All,All,All,All,All,All,113005,165625,9633,0.0852
+2023,1,Montana,All,All,All,All,All,Rural,75437,113013,6697,0.0888
+2023,1,Montana,All,All,All,All,All,Unknown,,,,
+2023,1,Montana,All,All,All,All,All,Urban,37565,52599,2935,0.0781
+2023,1,Montana,All,All,All,Disabled,All,All,9382,14222,2045,0.218
+2023,1,Montana,All,All,All,ESRD,All,All,696,745,101,0.1451
+2023,1,Montana,All,All,Female,All,All,All,62153,86288,5761,0.0927
+2023,1,Montana,All,All,Male,All,All,All,50852,79337,3872,0.0761
+2023,1,Montana,All,American Indian/Alaska Native,All,All,All,All,3392,4955,366,0.1079
+2023,1,Montana,All,Asian/Pacific Islander,All,All,All,All,455,746,39,0.0857
+2023,1,Montana,All,Black/African American,All,All,All,All,221,353,35,0.1584
+2023,1,Montana,All,Hispanic,All,All,All,All,1285,1945,146,0.1136
+2023,1,Montana,All,Non-Hispanic White,All,All,All,All,104050,152128,8687,0.0835
+2023,1,Montana,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Montana,Medicare & Medicaid,All,All,All,All,All,15927,22229,2615,0.1642
+2023,1,Montana,Medicare Only,All,All,All,All,All,97078,143395,7018,0.0723
+2023,1,National,All,All,All,Aged,All,All,19492455,25483004,2552871,0.131
+2023,1,National,All,All,All,All,0-64,All,2165536,3015857,596529,0.2755
+2023,1,National,All,All,All,All,65-74,All,9841751,13627429,1348899,0.1371
+2023,1,National,All,All,All,All,75-84,All,6974429,8617798,884904,0.1269
+2023,1,National,All,All,All,All,85 and over,All,2815812,3377384,346154,0.1229
+2023,1,National,All,All,All,All,All,All,21797528,28638468,3176486,0.1457
+2023,1,National,All,All,All,All,All,Rural,4721106,6403074,526852,0.1116
+2023,1,National,All,All,All,All,All,Unknown,,,,
+2023,1,National,All,All,All,All,All,Urban,17032189,22120251,2644917,0.1553
+2023,1,National,All,All,All,Disabled,All,All,2048249,2891779,572085,0.2793
+2023,1,National,All,All,All,ESRD,All,All,256824,263685,51530,0.2006
+2023,1,National,All,All,Female,All,All,All,12353078,15665046,1926164,0.1559
+2023,1,National,All,All,Male,All,All,All,9444450,12973421,1250322,0.1324
+2023,1,National,All,American Indian/Alaska Native,All,Aged,All,All,74855,100827,10005,0.1337
+2023,1,National,All,American Indian/Alaska Native,All,All,0-64,All,23935,33627,5648,0.236
+2023,1,National,All,American Indian/Alaska Native,All,All,65-74,All,37635,52347,5509,0.1464
+2023,1,National,All,American Indian/Alaska Native,All,All,75-84,All,28805,37286,3572,0.124
+2023,1,National,All,American Indian/Alaska Native,All,All,85 and over,All,10113,12881,1224,0.121
+2023,1,National,All,American Indian/Alaska Native,All,All,All,All,100488,136141,15953,0.1588
+2023,1,National,All,American Indian/Alaska Native,All,All,All,Rural,56894,76879,8109,0.1425
+2023,1,National,All,American Indian/Alaska Native,All,All,All,Unknown,,,,
+2023,1,National,All,American Indian/Alaska Native,All,All,All,Urban,43156,58580,7761,0.1798
+2023,1,National,All,American Indian/Alaska Native,All,Disabled,All,All,21761,31428,5197,0.2388
+2023,1,National,All,American Indian/Alaska Native,All,ESRD,All,All,3872,3886,751,0.194
+2023,1,National,All,American Indian/Alaska Native,Female,All,All,All,59467,76719,10092,0.1697
+2023,1,National,All,American Indian/Alaska Native,Male,All,All,All,41021,59422,5861,0.1429
+2023,1,National,All,Asian/Pacific Islander,All,Aged,All,All,571747,858813,105714,0.1849
+2023,1,National,All,Asian/Pacific Islander,All,All,0-64,All,47520,70135,14347,0.3019
+2023,1,National,All,Asian/Pacific Islander,All,All,65-74,All,284268,454257,50172,0.1765
+2023,1,National,All,Asian/Pacific Islander,All,All,75-84,All,199999,280251,36776,0.1839
+2023,1,National,All,Asian/Pacific Islander,All,All,85 and over,All,96115,133035,20828,0.2167
+2023,1,National,All,Asian/Pacific Islander,All,All,All,All,627902,937679,122123,0.1945
+2023,1,National,All,Asian/Pacific Islander,All,All,All,Rural,28377,43864,3820,0.1346
+2023,1,National,All,Asian/Pacific Islander,All,All,All,Unknown,,,,
+2023,1,National,All,Asian/Pacific Islander,All,All,All,Urban,594669,878145,118041,0.1985
+2023,1,National,All,Asian/Pacific Islander,All,Disabled,All,All,41055,63085,12752,0.3106
+2023,1,National,All,Asian/Pacific Islander,All,ESRD,All,All,15100,15780,3657,0.2422
+2023,1,National,All,Asian/Pacific Islander,Female,All,All,All,379545,555324,75126,0.1979
+2023,1,National,All,Asian/Pacific Islander,Male,All,All,All,248357,382355,46997,0.1892
+2023,1,National,All,Black/African American,All,Aged,All,All,1140524,1560923,151854,0.1331
+2023,1,National,All,Black/African American,All,All,0-64,All,360535,513001,84987,0.2357
+2023,1,National,All,Black/African American,All,All,65-74,All,648883,932103,90593,0.1396
+2023,1,National,All,Black/African American,All,All,75-84,All,374249,474534,47440,0.1268
+2023,1,National,All,Black/African American,All,All,85 and over,All,150737,187659,19201,0.1274
+2023,1,National,All,Black/African American,All,All,All,All,1534404,2107297,242221,0.1579
+2023,1,National,All,Black/African American,All,All,All,Rural,182651,244831,18520,0.1014
+2023,1,National,All,Black/African American,All,All,All,Unknown,,,,
+2023,1,National,All,Black/African American,All,All,All,Urban,1342946,1845752,222883,0.166
+2023,1,National,All,Black/African American,All,Disabled,All,All,320831,471706,77904,0.2428
+2023,1,National,All,Black/African American,All,ESRD,All,All,73049,74668,12463,0.1706
+2023,1,National,All,Black/African American,Female,All,All,All,910806,1160969,156010,0.1713
+2023,1,National,All,Black/African American,Male,All,All,All,623598,946327,86211,0.1382
+2023,1,National,All,Hispanic,All,Aged,All,All,886101,1386279,148884,0.168
+2023,1,National,All,Hispanic,All,All,0-64,All,223611,318596,66779,0.2986
+2023,1,National,All,Hispanic,All,All,65-74,All,484988,805640,82509,0.1701
+2023,1,National,All,Hispanic,All,All,75-84,All,289158,418519,46861,0.1621
+2023,1,National,All,Hispanic,All,All,85 and over,All,130008,180294,23245,0.1788
+2023,1,National,All,Hispanic,All,All,All,All,1127765,1723049,219394,0.1945
+2023,1,National,All,Hispanic,All,All,All,Rural,136247,209559,22368,0.1642
+2023,1,National,All,Hispanic,All,All,All,Unknown,,,,
+2023,1,National,All,Hispanic,All,All,All,Urban,986502,1495612,196608,0.1993
+2023,1,National,All,Hispanic,All,Disabled,All,All,199265,292851,61433,0.3083
+2023,1,National,All,Hispanic,All,ESRD,All,All,42399,43919,9077,0.2141
+2023,1,National,All,Hispanic,Female,All,All,All,657997,930306,138518,0.2105
+2023,1,National,All,Hispanic,Male,All,All,All,469768,792743,80876,0.1722
+2023,1,National,All,Non-Hispanic White,All,Aged,All,All,16172743,20694389,2040520,0.1262
+2023,1,National,All,Non-Hispanic White,All,All,0-64,All,1439031,1968971,402886,0.28
+2023,1,National,All,Non-Hispanic White,All,All,65-74,All,7951272,10778679,1056491,0.1329
+2023,1,National,All,Non-Hispanic White,All,All,75-84,All,5895497,7165316,722523,0.1226
+2023,1,National,All,Non-Hispanic White,All,All,85 and over,All,2399257,2823473,276106,0.1151
+2023,1,National,All,Non-Hispanic White,All,All,All,All,17685057,22736439,2458006,0.139
+2023,1,National,All,Non-Hispanic White,All,All,All,Rural,4205649,5667392,460237,0.1094
+2023,1,National,All,Non-Hispanic White,All,All,All,Unknown,,,,
+2023,1,National,All,Non-Hispanic White,All,All,All,Urban,13456446,17011544,1994815,0.1482
+2023,1,National,All,Non-Hispanic White,All,Disabled,All,All,1399873,1927342,394058,0.2815
+2023,1,National,All,Non-Hispanic White,All,ESRD,All,All,112441,114707,23428,0.2084
+2023,1,National,All,Non-Hispanic White,Female,All,All,All,10033405,12515739,1489348,0.1484
+2023,1,National,All,Non-Hispanic White,Male,All,All,All,7651652,10220700,968658,0.1266
+2023,1,National,All,Other/Unknown,All,Aged,All,All,,,,
+2023,1,National,All,Other/Unknown,All,All,0-64,All,,,,
+2023,1,National,All,Other/Unknown,All,All,65-74,All,,,,
+2023,1,National,All,Other/Unknown,All,All,75-84,All,,,,
+2023,1,National,All,Other/Unknown,All,All,85 and over,All,,,,
+2023,1,National,All,Other/Unknown,All,All,All,All,,,,
+2023,1,National,All,Other/Unknown,All,All,All,Rural,,,,
+2023,1,National,All,Other/Unknown,All,All,All,Unknown,,,,
+2023,1,National,All,Other/Unknown,All,All,All,Urban,,,,
+2023,1,National,All,Other/Unknown,All,Disabled,All,All,,,,
+2023,1,National,All,Other/Unknown,All,ESRD,All,All,,,,
+2023,1,National,All,Other/Unknown,Female,All,All,All,,,,
+2023,1,National,All,Other/Unknown,Male,All,All,All,,,,
+2023,1,National,Medicare & Medicaid,All,All,Aged,All,All,2288070,3002960,456645,0.1996
+2023,1,National,Medicare & Medicaid,All,All,All,0-64,All,1426874,1881054,423036,0.2965
+2023,1,National,Medicare & Medicaid,All,All,All,65-74,All,1174647,1631787,249580,0.2125
+2023,1,National,Medicare & Medicaid,All,All,All,75-84,All,702644,876447,134737,0.1918
+2023,1,National,Medicare & Medicaid,All,All,All,85 and over,All,455490,538260,81582,0.1791
+2023,1,National,Medicare & Medicaid,All,All,All,All,All,3759655,4927549,888935,0.2364
+2023,1,National,Medicare & Medicaid,All,All,All,All,Rural,839516,1096958,160977,0.1917
+2023,1,National,Medicare & Medicaid,All,All,All,All,Unknown,,,,
+2023,1,National,Medicare & Medicaid,All,All,All,All,Urban,2911180,3815378,726203,0.2495
+2023,1,National,Medicare & Medicaid,All,All,Disabled,All,All,1357219,1811015,407992,0.3006
+2023,1,National,Medicare & Medicaid,All,All,ESRD,All,All,114366,113573,24298,0.2125
+2023,1,National,Medicare & Medicaid,All,Female,All,All,All,2215050,2759835,549974,0.2483
+2023,1,National,Medicare & Medicaid,All,Male,All,All,All,1544605,2167713,338961,0.2194
+2023,1,National,Medicare & Medicaid,American Indian/Alaska Native,All,All,All,All,42605,57724,8426,0.1978
+2023,1,National,Medicare & Medicaid,Asian/Pacific Islander,All,All,All,All,277679,394747,67060,0.2415
+2023,1,National,Medicare & Medicaid,Black/African American,All,All,All,All,587603,764899,121912,0.2075
+2023,1,National,Medicare & Medicaid,Hispanic,All,All,All,All,535154,757124,132088,0.2468
+2023,1,National,Medicare & Medicaid,Non-Hispanic White,All,All,All,All,2177762,2751258,521921,0.2397
+2023,1,National,Medicare & Medicaid,Other/Unknown,All,All,All,All,,,,
+2023,1,National,Medicare Only,All,All,Aged,All,All,17204385,22480043,2096226,0.1218
+2023,1,National,Medicare Only,All,All,All,0-64,All,738662,1134802,173493,0.2349
+2023,1,National,Medicare Only,All,All,All,65-74,All,8667104,11995642,1099319,0.1268
+2023,1,National,Medicare Only,All,All,All,75-84,All,6271785,7741350,750167,0.1196
+2023,1,National,Medicare Only,All,All,All,85 and over,All,2360322,2839124,264572,0.1121
+2023,1,National,Medicare Only,All,All,All,All,All,18037873,23710919,2287551,0.1268
+2023,1,National,Medicare Only,All,All,All,All,Rural,3881590,5306116,365875,0.0943
+2023,1,National,Medicare Only,All,All,All,All,Unknown,,,,
+2023,1,National,Medicare Only,All,All,All,All,Urban,14121009,18304873,1918714,0.1359
+2023,1,National,Medicare Only,All,All,Disabled,All,All,691030,1080763,164093,0.2375
+2023,1,National,Medicare Only,All,All,ESRD,All,All,142458,150112,27232,0.1912
+2023,1,National,Medicare Only,All,Female,All,All,All,10138028,12905211,1376190,0.1357
+2023,1,National,Medicare Only,All,Male,All,All,All,7899845,10805708,911361,0.1154
+2023,1,National,Medicare Only,American Indian/Alaska Native,All,All,All,All,57883,78417,7527,0.13
+2023,1,National,Medicare Only,Asian/Pacific Islander,All,All,All,All,350223,542932,55063,0.1572
+2023,1,National,Medicare Only,Black/African American,All,All,All,All,946801,1342398,120309,0.1271
+2023,1,National,Medicare Only,Hispanic,All,All,All,All,592611,965925,87306,0.1473
+2023,1,National,Medicare Only,Non-Hispanic White,All,All,All,All,15507295,19985181,1936085,0.1248
+2023,1,National,Medicare Only,Other/Unknown,All,All,All,All,,,,
+2023,1,Nebraska,All,All,All,Aged,All,All,153757,208236,9727,0.0633
+2023,1,Nebraska,All,All,All,All,0-64,All,11958,16866,2440,0.204
+2023,1,Nebraska,All,All,All,All,65-74,All,79909,114640,5211,0.0652
+2023,1,Nebraska,All,All,All,All,75-84,All,51660,66412,3135,0.0607
+2023,1,Nebraska,All,All,All,All,85 and over,All,22916,27908,1498,0.0654
+2023,1,Nebraska,All,All,All,All,All,All,166443,225826,12284,0.0738
+2023,1,Nebraska,All,All,All,All,All,Rural,82463,113527,5493,0.0666
+2023,1,Nebraska,All,All,All,All,All,Unknown,,,,
+2023,1,Nebraska,All,All,All,All,All,Urban,83786,112026,6778,0.0809
+2023,1,Nebraska,All,All,All,Disabled,All,All,11442,16295,2360,0.2063
+2023,1,Nebraska,All,All,All,ESRD,All,All,1244,1295,197,0.1584
+2023,1,Nebraska,All,All,Female,All,All,All,94895,124551,7344,0.0774
+2023,1,Nebraska,All,All,Male,All,All,All,71548,101275,4940,0.069
+2023,1,Nebraska,All,American Indian/Alaska Native,All,All,All,All,576,790,68,0.1181
+2023,1,Nebraska,All,Asian/Pacific Islander,All,All,All,All,945,1578,45,0.0476
+2023,1,Nebraska,All,Black/African American,All,All,All,All,2606,3868,286,0.1097
+2023,1,Nebraska,All,Hispanic,All,All,All,All,3289,5381,275,0.0836
+2023,1,Nebraska,All,Non-Hispanic White,All,All,All,All,154102,207131,11219,0.0728
+2023,1,Nebraska,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Nebraska,Medicare & Medicaid,All,All,All,All,All,17685,22459,3237,0.183
+2023,1,Nebraska,Medicare Only,All,All,All,All,All,148758,203368,9047,0.0608
+2023,1,Nevada,All,All,All,Aged,All,All,156382,218351,20554,0.1314
+2023,1,Nevada,All,All,All,All,0-64,All,16083,23142,4784,0.2975
+2023,1,Nevada,All,All,All,All,65-74,All,81338,120697,11119,0.1367
+2023,1,Nevada,All,All,All,All,75-84,All,58506,76463,7376,0.1261
+2023,1,Nevada,All,All,All,All,85 and over,All,17711,22367,2270,0.1282
+2023,1,Nevada,All,All,All,All,All,All,173638,242669,25549,0.1471
+2023,1,Nevada,All,All,All,All,All,Rural,30529,44455,3657,0.1198
+2023,1,Nevada,All,All,All,All,All,Unknown,,,,
+2023,1,Nevada,All,All,All,All,All,Urban,142894,197871,21862,0.153
+2023,1,Nevada,All,All,All,Disabled,All,All,14944,21925,4554,0.3047
+2023,1,Nevada,All,All,All,ESRD,All,All,2312,2393,441,0.1907
+2023,1,Nevada,All,All,Female,All,All,All,96120,127795,15153,0.1576
+2023,1,Nevada,All,All,Male,All,All,All,77518,114874,10396,0.1341
+2023,1,Nevada,All,American Indian/Alaska Native,All,All,All,All,1255,1735,196,0.1562
+2023,1,Nevada,All,Asian/Pacific Islander,All,All,All,All,9206,14273,1386,0.1506
+2023,1,Nevada,All,Black/African American,All,All,All,All,10636,15136,2339,0.2199
+2023,1,Nevada,All,Hispanic,All,All,All,All,14571,23585,2516,0.1727
+2023,1,Nevada,All,Non-Hispanic White,All,All,All,All,131627,178626,18186,0.1382
+2023,1,Nevada,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Nevada,Medicare & Medicaid,All,All,All,All,All,27071,37313,6745,0.2492
+2023,1,Nevada,Medicare Only,All,All,All,All,All,146567,205356,18804,0.1283
+2023,1,New Hampshire,All,All,All,Aged,All,All,121214,166567,17718,0.1462
+2023,1,New Hampshire,All,All,All,All,0-64,All,15694,22375,5810,0.3702
+2023,1,New Hampshire,All,All,All,All,65-74,All,60195,87481,9187,0.1526
+2023,1,New Hampshire,All,All,All,All,75-84,All,44351,58281,6293,0.1419
+2023,1,New Hampshire,All,All,All,All,85 and over,All,17186,21325,2332,0.1357
+2023,1,New Hampshire,All,All,All,All,All,All,137426,189462,23622,0.1719
+2023,1,New Hampshire,All,All,All,All,All,Rural,57694,81943,9602,0.1664
+2023,1,New Hampshire,All,All,All,All,All,Unknown,,,,
+2023,1,New Hampshire,All,All,All,All,All,Urban,79416,107085,13933,0.1754
+2023,1,New Hampshire,All,All,All,Disabled,All,All,15372,22040,5727,0.3726
+2023,1,New Hampshire,All,All,All,ESRD,All,All,840,855,177,0.2107
+2023,1,New Hampshire,All,All,Female,All,All,All,77327,102716,14521,0.1878
+2023,1,New Hampshire,All,All,Male,All,All,All,60099,86745,9101,0.1514
+2023,1,New Hampshire,All,American Indian/Alaska Native,All,All,All,All,55,78,16,0.2909
+2023,1,New Hampshire,All,Asian/Pacific Islander,All,All,All,All,887,1459,130,0.1466
+2023,1,New Hampshire,All,Black/African American,All,All,All,All,585,935,107,0.1829
+2023,1,New Hampshire,All,Hispanic,All,All,All,All,1458,2208,299,0.2051
+2023,1,New Hampshire,All,Non-Hispanic White,All,All,All,All,128979,176847,22077,0.1712
+2023,1,New Hampshire,All,Other/Unknown,All,All,All,All,,,,
+2023,1,New Hampshire,Medicare & Medicaid,All,All,All,All,All,18525,24099,6050,0.3266
+2023,1,New Hampshire,Medicare Only,All,All,All,All,All,118901,165363,17572,0.1478
+2023,1,New Jersey,All,All,All,Aged,All,All,635222,788767,98780,0.1555
+2023,1,New Jersey,All,All,All,All,0-64,All,60084,78700,18682,0.3109
+2023,1,New Jersey,All,All,All,All,65-74,All,303453,398236,50003,0.1648
+2023,1,New Jersey,All,All,All,All,75-84,All,231472,274757,34804,0.1504
+2023,1,New Jersey,All,All,All,All,85 and over,All,105411,120836,14940,0.1417
+2023,1,New Jersey,All,All,All,All,All,All,700420,872528,118429,0.1691
+2023,1,New Jersey,All,All,All,All,All,Rural,7578,9761,1157,0.1527
+2023,1,New Jersey,All,All,All,All,All,Unknown,,,,
+2023,1,New Jersey,All,All,All,All,All,Urban,691743,861450,117173,0.1694
+2023,1,New Jersey,All,All,All,Disabled,All,All,56983,75406,18063,0.317
+2023,1,New Jersey,All,All,All,ESRD,All,All,8215,8356,1586,0.1931
+2023,1,New Jersey,All,All,Female,All,All,All,406692,496515,74135,0.1823
+2023,1,New Jersey,All,All,Male,All,All,All,293728,376013,44294,0.1508
+2023,1,New Jersey,All,American Indian/Alaska Native,All,All,All,All,203,283,45,0.2217
+2023,1,New Jersey,All,Asian/Pacific Islander,All,All,All,All,31450,44933,5080,0.1615
+2023,1,New Jersey,All,Black/African American,All,All,All,All,48614,64989,8440,0.1736
+2023,1,New Jersey,All,Hispanic,All,All,All,All,44491,62190,7989,0.1796
+2023,1,New Jersey,All,Non-Hispanic White,All,All,All,All,549414,665409,92465,0.1683
+2023,1,New Jersey,All,Other/Unknown,All,All,All,All,,,,
+2023,1,New Jersey,Medicare & Medicaid,All,All,All,All,All,101418,124837,23099,0.2278
+2023,1,New Jersey,Medicare Only,All,All,All,All,All,599002,747692,95330,0.1591
+2023,1,New Mexico,All,All,All,Aged,All,All,125483,177047,18358,0.1463
+2023,1,New Mexico,All,All,All,All,0-64,All,14032,21155,3750,0.2672
+2023,1,New Mexico,All,All,All,All,65-74,All,66315,99243,10052,0.1516
+2023,1,New Mexico,All,All,All,All,75-84,All,44079,58188,6284,0.1426
+2023,1,New Mexico,All,All,All,All,85 and over,All,16064,20596,2177,0.1355
+2023,1,New Mexico,All,All,All,All,All,All,140490,199181,22263,0.1585
+2023,1,New Mexico,All,All,All,All,All,Rural,55508,79234,8541,0.1539
+2023,1,New Mexico,All,All,All,All,All,Unknown,,,,
+2023,1,New Mexico,All,All,All,All,All,Urban,84607,119400,13669,0.1616
+2023,1,New Mexico,All,All,All,Disabled,All,All,13010,20101,3572,0.2746
+2023,1,New Mexico,All,All,All,ESRD,All,All,1997,2033,333,0.1668
+2023,1,New Mexico,All,All,Female,All,All,All,79389,106277,13621,0.1716
+2023,1,New Mexico,All,All,Male,All,All,All,61101,92904,8642,0.1414
+2023,1,New Mexico,All,American Indian/Alaska Native,All,All,All,All,7444,11581,955,0.1283
+2023,1,New Mexico,All,Asian/Pacific Islander,All,All,All,All,1223,1888,154,0.1259
+2023,1,New Mexico,All,Black/African American,All,All,All,All,1890,2932,345,0.1825
+2023,1,New Mexico,All,Hispanic,All,All,All,All,34263,51044,5774,0.1685
+2023,1,New Mexico,All,Non-Hispanic White,All,All,All,All,91519,125524,14398,0.1573
+2023,1,New Mexico,All,Other/Unknown,All,All,All,All,,,,
+2023,1,New Mexico,Medicare & Medicaid,All,All,All,All,All,27645,41646,6000,0.217
+2023,1,New Mexico,Medicare Only,All,All,All,All,All,112845,157535,16263,0.1441
+2023,1,New York,All,All,All,Aged,All,All,1089162,1383129,196758,0.1807
+2023,1,New York,All,All,All,All,0-64,All,140870,186330,48966,0.3476
+2023,1,New York,All,All,All,All,65-74,All,510323,684849,93949,0.1841
+2023,1,New York,All,All,All,All,75-84,All,398601,483806,70693,0.1774
+2023,1,New York,All,All,All,All,85 and over,All,189634,223706,34118,0.1799
+2023,1,New York,All,All,All,All,All,All,1239428,1578691,247726,0.1999
+2023,1,New York,All,All,All,All,All,Rural,137924,182721,23697,0.1718
+2023,1,New York,All,All,All,All,All,Unknown,,,,
+2023,1,New York,All,All,All,All,All,Urban,1100323,1394300,223601,0.2032
+2023,1,New York,All,All,All,Disabled,All,All,134596,179732,47470,0.3527
+2023,1,New York,All,All,All,ESRD,All,All,15670,15830,3498,0.2232
+2023,1,New York,All,All,Female,All,All,All,708203,878306,150664,0.2127
+2023,1,New York,All,All,Male,All,All,All,531225,700385,97062,0.1827
+2023,1,New York,All,American Indian/Alaska Native,All,All,All,All,1601,2223,323,0.2017
+2023,1,New York,All,Asian/Pacific Islander,All,All,All,All,43478,61825,8980,0.2065
+2023,1,New York,All,Black/African American,All,All,All,All,107884,148477,21860,0.2026
+2023,1,New York,All,Hispanic,All,All,All,All,76641,110321,16756,0.2186
+2023,1,New York,All,Non-Hispanic White,All,All,All,All,949104,1174160,187111,0.1971
+2023,1,New York,All,Other/Unknown,All,All,All,All,,,,
+2023,1,New York,Medicare & Medicaid,All,All,All,All,All,299891,370899,90167,0.3007
+2023,1,New York,Medicare Only,All,All,All,All,All,939537,1207792,157559,0.1677
+2023,1,North Carolina,All,All,All,Aged,All,All,635056,792552,58839,0.0927
+2023,1,North Carolina,All,All,All,All,0-64,All,74922,101896,16250,0.2169
+2023,1,North Carolina,All,All,All,All,65-74,All,325227,427556,32615,0.1003
+2023,1,North Carolina,All,All,All,All,75-84,All,229391,271830,19921,0.0868
+2023,1,North Carolina,All,All,All,All,85 and over,All,84820,97520,7032,0.0829
+2023,1,North Carolina,All,All,All,All,All,All,714360,898802,75818,0.1061
+2023,1,North Carolina,All,All,All,All,All,Rural,208734,262237,20013,0.0959
+2023,1,North Carolina,All,All,All,All,All,Unknown,,,,
+2023,1,North Carolina,All,All,All,All,All,Urban,504827,635542,55719,0.1104
+2023,1,North Carolina,All,All,All,Disabled,All,All,70598,97411,15505,0.2196
+2023,1,North Carolina,All,All,All,ESRD,All,All,8706,8839,1474,0.1693
+2023,1,North Carolina,All,All,Female,All,All,All,402867,488444,46333,0.115
+2023,1,North Carolina,All,All,Male,All,All,All,311493,410359,29485,0.0947
+2023,1,North Carolina,All,American Indian/Alaska Native,All,All,All,All,2511,3199,302,0.1203
+2023,1,North Carolina,All,Asian/Pacific Islander,All,All,All,All,7768,11939,703,0.0905
+2023,1,North Carolina,All,Black/African American,All,All,All,All,90087,121239,10188,0.1131
+2023,1,North Carolina,All,Hispanic,All,All,All,All,11823,17985,1326,0.1122
+2023,1,North Carolina,All,Non-Hispanic White,All,All,All,All,582125,718095,60917,0.1046
+2023,1,North Carolina,All,Other/Unknown,All,All,All,All,,,,
+2023,1,North Carolina,Medicare & Medicaid,All,All,All,All,All,100410,127163,17114,0.1704
+2023,1,North Carolina,Medicare Only,All,All,All,All,All,613950,771639,58704,0.0956
+2023,1,North Dakota,All,All,All,Aged,All,All,54547,79061,3149,0.0577
+2023,1,North Dakota,All,All,All,All,0-64,All,6085,8635,1190,0.1956
+2023,1,North Dakota,All,All,All,All,65-74,All,28621,44080,1687,0.0589
+2023,1,North Dakota,All,All,All,All,75-84,All,17536,24261,1011,0.0577
+2023,1,North Dakota,All,All,All,All,85 and over,All,8732,11074,504,0.0577
+2023,1,North Dakota,All,All,All,All,All,All,60974,88050,4392,0.072
+2023,1,North Dakota,All,All,All,All,All,Rural,34742,51398,2831,0.0815
+2023,1,North Dakota,All,All,All,All,All,Unknown,,,,
+2023,1,North Dakota,All,All,All,All,All,Urban,26206,36600,1557,0.0594
+2023,1,North Dakota,All,All,All,Disabled,All,All,5811,8342,1143,0.1967
+2023,1,North Dakota,All,All,All,ESRD,All,All,616,647,100,0.1623
+2023,1,North Dakota,All,All,Female,All,All,All,33970,47093,2569,0.0756
+2023,1,North Dakota,All,All,Male,All,All,All,27004,40956,1823,0.0675
+2023,1,North Dakota,All,American Indian/Alaska Native,All,All,All,All,1836,2591,197,0.1073
+2023,1,North Dakota,All,Asian/Pacific Islander,All,All,All,All,270,435,20,0.0741
+2023,1,North Dakota,All,Black/African American,All,All,All,All,323,515,35,0.1084
+2023,1,North Dakota,All,Hispanic,All,All,All,All,451,705,47,0.1042
+2023,1,North Dakota,All,Non-Hispanic White,All,All,All,All,56498,81454,3948,0.0699
+2023,1,North Dakota,All,Other/Unknown,All,All,All,All,,,,
+2023,1,North Dakota,Medicare & Medicaid,All,All,All,All,All,9089,11841,1570,0.1727
+2023,1,North Dakota,Medicare Only,All,All,All,All,All,51885,76209,2822,0.0544
+2023,1,Ohio,All,All,All,Aged,All,All,660442,859115,63588,0.0963
+2023,1,Ohio,All,All,All,All,0-64,All,74142,102785,17760,0.2395
+2023,1,Ohio,All,All,All,All,65-74,All,354491,486827,36624,0.1033
+2023,1,Ohio,All,All,All,All,75-84,All,220512,270905,20101,0.0912
+2023,1,Ohio,All,All,All,All,85 and over,All,89685,105614,7479,0.0834
+2023,1,Ohio,All,All,All,All,All,All,738830,966130,81964,0.1109
+2023,1,Ohio,All,All,All,All,All,Rural,207303,273195,19432,0.0937
+2023,1,Ohio,All,All,All,All,All,Unknown,,,,
+2023,1,Ohio,All,All,All,All,All,Urban,531226,692502,62488,0.1176
+2023,1,Ohio,All,All,All,Disabled,All,All,71619,100037,17339,0.2421
+2023,1,Ohio,All,All,All,ESRD,All,All,6769,6978,1037,0.1532
+2023,1,Ohio,All,All,Female,All,All,All,411939,520424,48763,0.1184
+2023,1,Ohio,All,All,Male,All,All,All,326891,445706,33201,0.1016
+2023,1,Ohio,All,American Indian/Alaska Native,All,All,All,All,219,288,41,0.1872
+2023,1,Ohio,All,Asian/Pacific Islander,All,All,All,All,6026,9105,652,0.1082
+2023,1,Ohio,All,Black/African American,All,All,All,All,43895,60056,5993,0.1365
+2023,1,Ohio,All,Hispanic,All,All,All,All,7620,10952,1057,0.1387
+2023,1,Ohio,All,Non-Hispanic White,All,All,All,All,650918,844646,70774,0.1087
+2023,1,Ohio,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Ohio,Medicare & Medicaid,All,All,All,All,All,100145,127223,20242,0.2021
+2023,1,Ohio,Medicare Only,All,All,All,All,All,638685,838907,61722,0.0966
+2023,1,Oklahoma,All,All,All,Aged,All,All,288584,369327,26363,0.0914
+2023,1,Oklahoma,All,All,All,All,0-64,All,36735,50617,7313,0.1991
+2023,1,Oklahoma,All,All,All,All,65-74,All,149107,200060,14168,0.095
+2023,1,Oklahoma,All,All,All,All,75-84,All,103172,125823,9024,0.0875
+2023,1,Oklahoma,All,All,All,All,85 and over,All,38152,45314,3465,0.0908
+2023,1,Oklahoma,All,All,All,All,All,All,327166,421813,33970,0.1038
+2023,1,Oklahoma,All,All,All,All,All,Rural,154752,200337,14870,0.0961
+2023,1,Oklahoma,All,All,All,All,All,Unknown,,,,
+2023,1,Oklahoma,All,All,All,All,All,Urban,171212,219959,18953,0.1107
+2023,1,Oklahoma,All,All,All,Disabled,All,All,34766,48516,6990,0.2011
+2023,1,Oklahoma,All,All,All,ESRD,All,All,3816,3971,617,0.1617
+2023,1,Oklahoma,All,All,Female,All,All,All,187317,232064,21423,0.1144
+2023,1,Oklahoma,All,All,Male,All,All,All,139849,189749,12547,0.0897
+2023,1,Oklahoma,All,American Indian/Alaska Native,All,All,All,All,22700,27140,2740,0.1207
+2023,1,Oklahoma,All,Asian/Pacific Islander,All,All,All,All,2610,4172,215,0.0824
+2023,1,Oklahoma,All,Black/African American,All,All,All,All,12749,17671,1585,0.1243
+2023,1,Oklahoma,All,Hispanic,All,All,All,All,6678,10275,679,0.1017
+2023,1,Oklahoma,All,Non-Hispanic White,All,All,All,All,276642,354564,28189,0.1019
+2023,1,Oklahoma,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Oklahoma,Medicare & Medicaid,All,All,All,All,All,47926,59614,8150,0.1701
+2023,1,Oklahoma,Medicare Only,All,All,All,All,All,279240,362199,25820,0.0925
+2023,1,Oregon,All,All,All,Aged,All,All,218380,317878,32881,0.1506
+2023,1,Oregon,All,All,All,All,0-64,All,28281,44123,8848,0.3129
+2023,1,Oregon,All,All,All,All,65-74,All,116698,180789,19103,0.1637
+2023,1,Oregon,All,All,All,All,75-84,All,76518,103972,10788,0.141
+2023,1,Oregon,All,All,All,All,85 and over,All,26332,34323,3318,0.126
+2023,1,Oregon,All,All,All,All,All,All,247829,363206,42057,0.1697
+2023,1,Oregon,All,All,All,All,All,Rural,102298,154068,14740,0.1441
+2023,1,Oregon,All,All,All,All,All,Unknown,,,,
+2023,1,Oregon,All,All,All,All,All,Urban,145514,209082,27315,0.1877
+2023,1,Oregon,All,All,All,Disabled,All,All,27154,42897,8486,0.3125
+2023,1,Oregon,All,All,All,ESRD,All,All,2295,2432,690,0.3007
+2023,1,Oregon,All,All,Female,All,All,All,139002,191453,25223,0.1815
+2023,1,Oregon,All,All,Male,All,All,All,108827,171754,16834,0.1547
+2023,1,Oregon,All,American Indian/Alaska Native,All,All,All,All,2278,3255,405,0.1778
+2023,1,Oregon,All,Asian/Pacific Islander,All,All,All,All,3951,6647,682,0.1726
+2023,1,Oregon,All,Black/African American,All,All,All,All,2014,3303,497,0.2468
+2023,1,Oregon,All,Hispanic,All,All,All,All,8398,14754,1301,0.1549
+2023,1,Oregon,All,Non-Hispanic White,All,All,All,All,223246,323240,37633,0.1686
+2023,1,Oregon,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Oregon,Medicare & Medicaid,All,All,All,All,All,46945,72443,11289,0.2405
+2023,1,Oregon,Medicare Only,All,All,All,All,All,200884,290764,30768,0.1532
+2023,1,Pennsylvania,All,All,All,Aged,All,All,832197,1058964,94017,0.113
+2023,1,Pennsylvania,All,All,All,All,0-64,All,90364,123078,25596,0.2833
+2023,1,Pennsylvania,All,All,All,All,65-74,All,442622,593415,54316,0.1227
+2023,1,Pennsylvania,All,All,All,All,75-84,All,278657,335969,29921,0.1074
+2023,1,Pennsylvania,All,All,All,All,85 and over,All,116157,134832,10757,0.0926
+2023,1,Pennsylvania,All,All,All,All,All,All,927800,1187294,120590,0.13
+2023,1,Pennsylvania,All,All,All,All,All,Rural,124510,163395,14628,0.1175
+2023,1,Pennsylvania,All,All,All,All,All,Unknown,,,,
+2023,1,Pennsylvania,All,All,All,All,All,Urban,802969,1023480,105950,0.1319
+2023,1,Pennsylvania,All,All,All,Disabled,All,All,86755,119293,24855,0.2865
+2023,1,Pennsylvania,All,All,All,ESRD,All,All,8848,9038,1718,0.1942
+2023,1,Pennsylvania,All,All,Female,All,All,All,525531,654682,73191,0.1393
+2023,1,Pennsylvania,All,All,Male,All,All,All,402269,532612,47399,0.1178
+2023,1,Pennsylvania,All,American Indian/Alaska Native,All,All,All,All,198,264,37,0.1869
+2023,1,Pennsylvania,All,Asian/Pacific Islander,All,All,All,All,13304,19637,1750,0.1315
+2023,1,Pennsylvania,All,Black/African American,All,All,All,All,48075,67244,7865,0.1636
+2023,1,Pennsylvania,All,Hispanic,All,All,All,All,18806,27109,3200,0.1702
+2023,1,Pennsylvania,All,Non-Hispanic White,All,All,All,All,818228,1034290,103807,0.1269
+2023,1,Pennsylvania,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Pennsylvania,Medicare & Medicaid,All,All,All,All,All,135375,175552,30245,0.2234
+2023,1,Pennsylvania,Medicare Only,All,All,All,All,All,792425,1011742,90345,0.114
+2023,1,Puerto Rico,All,All,All,All,All,All,21414,32494,2209,0.1032
+2023,1,Rhode Island,All,All,All,Aged,All,All,55516,69794,9605,0.173
+2023,1,Rhode Island,All,All,All,All,0-64,All,5476,8424,1805,0.3296
+2023,1,Rhode Island,All,All,All,All,65-74,All,25852,34402,4630,0.1791
+2023,1,Rhode Island,All,All,All,All,75-84,All,21379,25518,3670,0.1717
+2023,1,Rhode Island,All,All,All,All,85 and over,All,8576,10164,1375,0.1603
+2023,1,Rhode Island,All,All,All,All,All,All,61283,78508,11480,0.1873
+2023,1,Rhode Island,All,All,All,All,All,Rural,159,201,26,0.1635
+2023,1,Rhode Island,All,All,All,All,All,Unknown,,,,
+2023,1,Rhode Island,All,All,All,All,All,Urban,61122,78299,11454,0.1874
+2023,1,Rhode Island,All,All,All,Disabled,All,All,5274,8210,1762,0.3341
+2023,1,Rhode Island,All,All,All,ESRD,All,All,493,504,113,0.2292
+2023,1,Rhode Island,All,All,Female,All,All,All,35146,43454,7099,0.202
+2023,1,Rhode Island,All,All,Male,All,All,All,26137,35054,4381,0.1676
+2023,1,Rhode Island,All,American Indian/Alaska Native,All,All,All,All,73,99,22,0.3014
+2023,1,Rhode Island,All,Asian/Pacific Islander,All,All,All,All,744,1196,85,0.1142
+2023,1,Rhode Island,All,Black/African American,All,All,All,All,1413,2171,243,0.172
+2023,1,Rhode Island,All,Hispanic,All,All,All,All,2556,4131,495,0.1937
+2023,1,Rhode Island,All,Non-Hispanic White,All,All,All,All,53840,67296,10141,0.1884
+2023,1,Rhode Island,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Rhode Island,Medicare & Medicaid,All,All,All,All,All,8098,11328,2177,0.2688
+2023,1,Rhode Island,Medicare Only,All,All,All,All,All,53185,67180,9303,0.1749
+2023,1,South Carolina,All,All,All,Aged,All,All,450773,548100,35434,0.0786
+2023,1,South Carolina,All,All,All,All,0-64,All,37662,51990,6194,0.1645
+2023,1,South Carolina,All,All,All,All,65-74,All,233773,297736,18577,0.0795
+2023,1,South Carolina,All,All,All,All,75-84,All,166761,193174,12526,0.0751
+2023,1,South Carolina,All,All,All,All,85 and over,All,52952,59913,4716,0.0891
+2023,1,South Carolina,All,All,All,All,All,All,491148,602813,42013,0.0855
+2023,1,South Carolina,All,All,All,All,All,Rural,89574,112479,6990,0.078
+2023,1,South Carolina,All,All,All,All,All,Unknown,,,,
+2023,1,South Carolina,All,All,All,All,All,Urban,401359,490034,35003,0.0872
+2023,1,South Carolina,All,All,All,Disabled,All,All,35251,49506,5740,0.1628
+2023,1,South Carolina,All,All,All,ESRD,All,All,5124,5207,839,0.1637
+2023,1,South Carolina,All,All,Female,All,All,All,279024,332876,25996,0.0932
+2023,1,South Carolina,All,All,Male,All,All,All,212124,269937,16017,0.0755
+2023,1,South Carolina,All,American Indian/Alaska Native,All,All,All,All,220,281,39,0.1773
+2023,1,South Carolina,All,Asian/Pacific Islander,All,All,All,All,3209,4719,223,0.0695
+2023,1,South Carolina,All,Black/African American,All,All,All,All,65792,86118,5617,0.0854
+2023,1,South Carolina,All,Hispanic,All,All,All,All,4996,7080,473,0.0947
+2023,1,South Carolina,All,Non-Hispanic White,All,All,All,All,404731,489124,34567,0.0854
+2023,1,South Carolina,All,Other/Unknown,All,All,All,All,,,,
+2023,1,South Carolina,Medicare & Medicaid,All,All,All,All,All,37630,47339,5547,0.1474
+2023,1,South Carolina,Medicare Only,All,All,All,All,All,453518,555474,36466,0.0804
+2023,1,South Dakota,All,All,All,Aged,All,All,70585,102915,4709,0.0667
+2023,1,South Dakota,All,All,All,All,0-64,All,7258,10571,1224,0.1686
+2023,1,South Dakota,All,All,All,All,65-74,All,39788,61263,2767,0.0695
+2023,1,South Dakota,All,All,All,All,75-84,All,21897,30181,1479,0.0675
+2023,1,South Dakota,All,All,All,All,85 and over,All,9322,11906,560,0.0601
+2023,1,South Dakota,All,All,All,All,All,All,78265,113921,6030,0.077
+2023,1,South Dakota,All,All,All,All,All,Rural,48663,71591,4469,0.0918
+2023,1,South Dakota,All,All,All,All,All,Unknown,,,,
+2023,1,South Dakota,All,All,All,All,All,Urban,29594,42318,1560,0.0527
+2023,1,South Dakota,All,All,All,Disabled,All,All,6897,10193,1148,0.1664
+2023,1,South Dakota,All,All,All,ESRD,All,All,783,812,173,0.2209
+2023,1,South Dakota,All,All,Female,All,All,All,43315,60134,3352,0.0774
+2023,1,South Dakota,All,All,Male,All,All,All,34950,53787,2678,0.0766
+2023,1,South Dakota,All,American Indian/Alaska Native,All,All,All,All,3353,4778,396,0.1181
+2023,1,South Dakota,All,Asian/Pacific Islander,All,All,All,All,397,628,26,0.0655
+2023,1,South Dakota,All,Black/African American,All,All,All,All,296,519,30,0.1014
+2023,1,South Dakota,All,Hispanic,All,All,All,All,640,1000,62,0.0969
+2023,1,South Dakota,All,Non-Hispanic White,All,All,All,All,71591,103929,5367,0.075
+2023,1,South Dakota,All,Other/Unknown,All,All,All,All,,,,
+2023,1,South Dakota,Medicare & Medicaid,All,All,All,All,All,10743,14540,1528,0.1422
+2023,1,South Dakota,Medicare Only,All,All,All,All,All,67522,99381,4502,0.0667
+2023,1,Tennessee,All,All,All,Aged,All,All,435668,549665,29272,0.0672
+2023,1,Tennessee,All,All,All,All,0-64,All,43752,61137,7480,0.171
+2023,1,Tennessee,All,All,All,All,65-74,All,228901,302455,16555,0.0723
+2023,1,Tennessee,All,All,All,All,75-84,All,155314,186309,9673,0.0623
+2023,1,Tennessee,All,All,All,All,85 and over,All,54201,63651,3449,0.0636
+2023,1,Tennessee,All,All,All,All,All,All,482168,613552,37157,0.0771
+2023,1,Tennessee,All,All,All,All,All,Rural,159693,204209,10669,0.0668
+2023,1,Tennessee,All,All,All,All,All,Unknown,,,,
+2023,1,Tennessee,All,All,All,All,All,Urban,321947,408625,26434,0.0821
+2023,1,Tennessee,All,All,All,Disabled,All,All,41362,58615,7131,0.1724
+2023,1,Tennessee,All,All,All,ESRD,All,All,5138,5272,754,0.1467
+2023,1,Tennessee,All,All,Female,All,All,All,275641,339439,23089,0.0838
+2023,1,Tennessee,All,All,Male,All,All,All,206527,274113,14068,0.0681
+2023,1,Tennessee,All,American Indian/Alaska Native,All,All,All,All,220,309,31,0.1409
+2023,1,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3295,5220,254,0.0771
+2023,1,Tennessee,All,Black/African American,All,All,All,All,37220,50840,3223,0.0866
+2023,1,Tennessee,All,Hispanic,All,All,All,All,4175,6601,378,0.0905
+2023,1,Tennessee,All,Non-Hispanic White,All,All,All,All,426765,536638,32466,0.0761
+2023,1,Tennessee,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Tennessee,Medicare & Medicaid,All,All,All,All,All,56566,72330,7996,0.1414
+2023,1,Tennessee,Medicare Only,All,All,All,All,All,425602,541222,29161,0.0685
+2023,1,Territories,All,All,All,All,All,All,8830,17707,375,0.0425
+2023,1,Texas,All,All,All,Aged,All,All,1260131,1648733,174600,0.1386
+2023,1,Texas,All,All,All,All,0-64,All,115579,166141,30071,0.2602
+2023,1,Texas,All,All,All,All,65-74,All,659913,916718,93254,0.1413
+2023,1,Texas,All,All,All,All,75-84,All,443157,542690,60860,0.1373
+2023,1,Texas,All,All,All,All,85 and over,All,167778,199959,22638,0.1349
+2023,1,Texas,All,All,All,All,All,All,1386427,1825508,206823,0.1492
+2023,1,Texas,All,All,All,All,All,Rural,268720,357330,33527,0.1248
+2023,1,Texas,All,All,All,All,All,Unknown,,,,
+2023,1,Texas,All,All,All,All,All,Urban,1115988,1465719,173081,0.1551
+2023,1,Texas,All,All,All,Disabled,All,All,103332,153291,27761,0.2687
+2023,1,Texas,All,All,All,ESRD,All,All,22964,23484,4462,0.1943
+2023,1,Texas,All,All,Female,All,All,All,779115,984710,123550,0.1586
+2023,1,Texas,All,All,Male,All,All,All,607312,840798,83273,0.1371
+2023,1,Texas,All,American Indian/Alaska Native,All,All,All,All,2026,2565,298,0.1471
+2023,1,Texas,All,Asian/Pacific Islander,All,All,All,All,33597,49294,4982,0.1483
+2023,1,Texas,All,Black/African American,All,All,All,All,94307,132053,17489,0.1854
+2023,1,Texas,All,Hispanic,All,All,All,All,174331,263114,26508,0.1521
+2023,1,Texas,All,Non-Hispanic White,All,All,All,All,1050043,1333864,152562,0.1453
+2023,1,Texas,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Texas,Medicare & Medicaid,All,All,All,All,All,170455,214423,37484,0.2199
+2023,1,Texas,Medicare Only,All,All,All,All,All,1215972,1611085,169339,0.1393
+2023,1,Utah,All,All,All,Aged,All,All,127113,171595,11511,0.0906
+2023,1,Utah,All,All,All,All,0-64,All,11016,16444,2751,0.2497
+2023,1,Utah,All,All,All,All,65-74,All,64961,92162,6575,0.1012
+2023,1,Utah,All,All,All,All,75-84,All,45809,58426,3855,0.0842
+2023,1,Utah,All,All,All,All,85 and over,All,17053,21716,1190,0.0698
+2023,1,Utah,All,All,All,All,All,All,138839,188748,14371,0.1035
+2023,1,Utah,All,All,All,All,All,Rural,31325,44531,3628,0.1158
+2023,1,Utah,All,All,All,All,All,Unknown,,,,
+2023,1,Utah,All,All,All,All,All,Urban,107498,144180,10740,0.0999
+2023,1,Utah,All,All,All,Disabled,All,All,10414,15736,2637,0.2532
+2023,1,Utah,All,All,All,ESRD,All,All,1312,1417,223,0.17
+2023,1,Utah,All,All,Female,All,All,All,76985,102012,8417,0.1093
+2023,1,Utah,All,All,Male,All,All,All,61854,86736,5954,0.0963
+2023,1,Utah,All,American Indian/Alaska Native,All,All,All,All,1122,1474,183,0.1631
+2023,1,Utah,All,Asian/Pacific Islander,All,All,All,All,2265,3613,236,0.1042
+2023,1,Utah,All,Black/African American,All,All,All,All,664,1035,92,0.1386
+2023,1,Utah,All,Hispanic,All,All,All,All,5488,9082,538,0.098
+2023,1,Utah,All,Non-Hispanic White,All,All,All,All,125150,167429,12810,0.1024
+2023,1,Utah,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Utah,Medicare & Medicaid,All,All,All,All,All,13524,18740,2688,0.1988
+2023,1,Utah,Medicare Only,All,All,All,All,All,125315,170008,11683,0.0932
+2023,1,Vermont,All,All,All,Aged,All,All,61209,85476,8872,0.1449
+2023,1,Vermont,All,All,All,All,0-64,All,9789,13678,3295,0.3366
+2023,1,Vermont,All,All,All,All,65-74,All,31239,45861,4835,0.1548
+2023,1,Vermont,All,All,All,All,75-84,All,21548,28741,3039,0.141
+2023,1,Vermont,All,All,All,All,85 and over,All,8629,11078,1059,0.1227
+2023,1,Vermont,All,All,All,All,All,All,71205,99358,12228,0.1717
+2023,1,Vermont,All,All,All,All,All,Rural,53253,75084,9270,0.1741
+2023,1,Vermont,All,All,All,All,All,Unknown,,,,
+2023,1,Vermont,All,All,All,All,All,Urban,17747,23969,2903,0.1636
+2023,1,Vermont,All,All,All,Disabled,All,All,9654,13533,3239,0.3355
+2023,1,Vermont,All,All,All,ESRD,All,All,342,348,117,0.3421
+2023,1,Vermont,All,All,Female,All,All,All,39720,53087,7438,0.1873
+2023,1,Vermont,All,All,Male,All,All,All,31485,46271,4790,0.1521
+2023,1,Vermont,All,American Indian/Alaska Native,All,All,All,All,26,43,12,0.4615
+2023,1,Vermont,All,Asian/Pacific Islander,All,All,All,All,434,675,66,0.1521
+2023,1,Vermont,All,Black/African American,All,All,All,All,272,436,52,0.1912
+2023,1,Vermont,All,Hispanic,All,All,All,All,511,716,113,0.2211
+2023,1,Vermont,All,Non-Hispanic White,All,All,All,All,66419,92399,11374,0.1712
+2023,1,Vermont,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Vermont,Medicare & Medicaid,All,All,All,All,All,16049,21371,4204,0.2619
+2023,1,Vermont,Medicare Only,All,All,All,All,All,55156,77987,8024,0.1455
+2023,1,Virgin Islands,All,All,All,All,All,All,7428,12747,556,0.0749
+2023,1,Virginia,All,All,All,Aged,All,All,650535,820164,69142,0.1063
+2023,1,Virginia,All,All,All,All,0-64,All,47599,66624,11179,0.2349
+2023,1,Virginia,All,All,All,All,65-74,All,322366,429859,36010,0.1117
+2023,1,Virginia,All,All,All,All,75-84,All,240622,287792,24768,0.1029
+2023,1,Virginia,All,All,All,All,85 and over,All,91646,106592,8953,0.0977
+2023,1,Virginia,All,All,All,All,All,All,702233,890866,80910,0.1152
+2023,1,Virginia,All,All,All,All,All,Rural,117306,150436,9895,0.0844
+2023,1,Virginia,All,All,All,All,All,Unknown,,,,
+2023,1,Virginia,All,All,All,All,All,Urban,583940,739078,70910,0.1214
+2023,1,Virginia,All,All,All,Disabled,All,All,45016,63877,10717,0.2381
+2023,1,Virginia,All,All,All,ESRD,All,All,6682,6825,1051,0.1573
+2023,1,Virginia,All,All,Female,All,All,All,401249,495196,49934,0.1244
+2023,1,Virginia,All,All,Male,All,All,All,300984,395671,30976,0.1029
+2023,1,Virginia,All,American Indian/Alaska Native,All,All,All,All,278,372,45,0.1619
+2023,1,Virginia,All,Asian/Pacific Islander,All,All,All,All,18653,27109,3323,0.1781
+2023,1,Virginia,All,Black/African American,All,All,All,All,81703,109053,9229,0.113
+2023,1,Virginia,All,Hispanic,All,All,All,All,12983,20025,1835,0.1413
+2023,1,Virginia,All,Non-Hispanic White,All,All,All,All,564545,702182,63246,0.112
+2023,1,Virginia,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Virginia,Medicare & Medicaid,All,All,All,All,All,65948,84917,12104,0.1835
+2023,1,Virginia,Medicare Only,All,All,All,All,All,636285,805949,68806,0.1081
+2023,1,Washington,All,All,All,Aged,All,All,433132,616150,59206,0.1367
+2023,1,Washington,All,All,All,All,0-64,All,41818,66169,10978,0.2625
+2023,1,Washington,All,All,All,All,65-74,All,209220,321801,30914,0.1478
+2023,1,Washington,All,All,All,All,75-84,All,161786,215157,21047,0.1301
+2023,1,Washington,All,All,All,All,85 and over,All,64786,81868,7860,0.1213
+2023,1,Washington,All,All,All,All,All,All,477610,684996,70799,0.1482
+2023,1,Washington,All,All,All,All,All,Rural,111150,164027,15234,0.1371
+2023,1,Washington,All,All,All,All,All,Unknown,,,,
+2023,1,Washington,All,All,All,All,All,Urban,366306,520632,55543,0.1516
+2023,1,Washington,All,All,All,Disabled,All,All,39693,63887,10372,0.2613
+2023,1,Washington,All,All,All,ESRD,All,All,4785,4958,1221,0.2552
+2023,1,Washington,All,All,Female,All,All,All,265948,365483,42088,0.1583
+2023,1,Washington,All,All,Male,All,All,All,211662,319513,28711,0.1356
+2023,1,Washington,All,American Indian/Alaska Native,All,All,All,All,4470,6509,730,0.1633
+2023,1,Washington,All,Asian/Pacific Islander,All,All,All,All,16371,27783,2211,0.1351
+2023,1,Washington,All,Black/African American,All,All,All,All,8446,14064,1728,0.2046
+2023,1,Washington,All,Hispanic,All,All,All,All,14354,24847,1842,0.1283
+2023,1,Washington,All,Non-Hispanic White,All,All,All,All,416240,584356,61558,0.1479
+2023,1,Washington,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Washington,Medicare & Medicaid,All,All,All,All,All,65958,99841,13639,0.2068
+2023,1,Washington,Medicare Only,All,All,All,All,All,411652,585155,57160,0.1389
+2023,1,West Virginia,All,All,All,Aged,All,All,122623,160573,12336,0.1006
+2023,1,West Virginia,All,All,All,All,0-64,All,21950,31083,4884,0.2225
+2023,1,West Virginia,All,All,All,All,65-74,All,65634,89212,6688,0.1019
+2023,1,West Virginia,All,All,All,All,75-84,All,41997,52731,4096,0.0975
+2023,1,West Virginia,All,All,All,All,85 and over,All,15682,19324,1692,0.1079
+2023,1,West Virginia,All,All,All,All,All,All,145263,192350,17360,0.1195
+2023,1,West Virginia,All,All,All,All,All,Rural,48350,64187,5609,0.116
+2023,1,West Virginia,All,All,All,All,All,Unknown,,,,
+2023,1,West Virginia,All,All,All,All,All,Urban,96666,127806,11709,0.1211
+2023,1,West Virginia,All,All,All,Disabled,All,All,21455,30547,4764,0.222
+2023,1,West Virginia,All,All,All,ESRD,All,All,1185,1230,260,0.2194
+2023,1,West Virginia,All,All,Female,All,All,All,81152,100982,10524,0.1297
+2023,1,West Virginia,All,All,Male,All,All,All,64111,91368,6836,0.1066
+2023,1,West Virginia,All,American Indian/Alaska Native,All,All,All,All,45,61,12,0.2667
+2023,1,West Virginia,All,Asian/Pacific Islander,All,All,All,All,542,831,50,0.0923
+2023,1,West Virginia,All,Black/African American,All,All,All,All,3110,4398,429,0.1379
+2023,1,West Virginia,All,Hispanic,All,All,All,All,787,1130,87,0.1105
+2023,1,West Virginia,All,Non-Hispanic White,All,All,All,All,138595,182780,16531,0.1193
+2023,1,West Virginia,All,Other/Unknown,All,All,All,All,,,,
+2023,1,West Virginia,Medicare & Medicaid,All,All,All,All,All,30530,40155,6240,0.2044
+2023,1,West Virginia,Medicare Only,All,All,All,All,All,114733,152195,11120,0.0969
+2023,1,Wisconsin,All,All,All,Aged,All,All,300746,435435,28215,0.0938
+2023,1,Wisconsin,All,All,All,All,0-64,All,44776,64122,11391,0.2544
+2023,1,Wisconsin,All,All,All,All,65-74,All,165371,253603,16879,0.1021
+2023,1,Wisconsin,All,All,All,All,75-84,All,96829,131711,8456,0.0873
+2023,1,Wisconsin,All,All,All,All,85 and over,All,40501,52107,3195,0.0789
+2023,1,Wisconsin,All,All,All,All,All,All,347477,501542,39921,0.1149
+2023,1,Wisconsin,All,All,All,All,All,Rural,129020,195273,14124,0.1095
+2023,1,Wisconsin,All,All,All,All,All,Unknown,,,,
+2023,1,Wisconsin,All,All,All,All,All,Urban,218407,306185,25795,0.1181
+2023,1,Wisconsin,All,All,All,Disabled,All,All,42877,62102,11065,0.2581
+2023,1,Wisconsin,All,All,All,ESRD,All,All,3854,4005,641,0.1663
+2023,1,Wisconsin,All,All,Female,All,All,All,193853,268725,23972,0.1237
+2023,1,Wisconsin,All,All,Male,All,All,All,153624,232817,15949,0.1038
+2023,1,Wisconsin,All,American Indian/Alaska Native,All,All,All,All,2348,3208,324,0.138
+2023,1,Wisconsin,All,Asian/Pacific Islander,All,All,All,All,3726,6262,352,0.0945
+2023,1,Wisconsin,All,Black/African American,All,All,All,All,8875,12715,1523,0.1716
+2023,1,Wisconsin,All,Hispanic,All,All,All,All,5481,8803,789,0.144
+2023,1,Wisconsin,All,Non-Hispanic White,All,All,All,All,313412,450143,35291,0.1126
+2023,1,Wisconsin,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Wisconsin,Medicare & Medicaid,All,All,All,All,All,65881,89312,13518,0.2052
+2023,1,Wisconsin,Medicare Only,All,All,All,All,All,281596,412230,26403,0.0938
+2023,1,Wyoming,All,All,All,Aged,All,All,58981,88692,4056,0.0688
+2023,1,Wyoming,All,All,All,All,0-64,All,6149,8908,1247,0.2028
+2023,1,Wyoming,All,All,All,All,65-74,All,32362,51926,2383,0.0736
+2023,1,Wyoming,All,All,All,All,75-84,All,19917,27924,1320,0.0663
+2023,1,Wyoming,All,All,All,All,85 and over,All,6935,9076,399,0.0575
+2023,1,Wyoming,All,All,All,All,All,All,65363,97834,5349,0.0818
+2023,1,Wyoming,All,All,All,All,All,Rural,44187,67767,3885,0.0879
+2023,1,Wyoming,All,All,All,All,All,Unknown,,,,
+2023,1,Wyoming,All,All,All,All,All,Urban,20515,29041,1425,0.0695
+2023,1,Wyoming,All,All,All,Disabled,All,All,5954,8700,1204,0.2022
+2023,1,Wyoming,All,All,All,ESRD,All,All,428,442,89,0.2079
+2023,1,Wyoming,All,All,Female,All,All,All,36031,50907,3063,0.085
+2023,1,Wyoming,All,All,Male,All,All,All,29332,46927,2286,0.0779
+2023,1,Wyoming,All,American Indian/Alaska Native,All,All,All,All,666,1049,89,0.1336
+2023,1,Wyoming,All,Asian/Pacific Islander,All,All,All,All,263,434,19,0.0722
+2023,1,Wyoming,All,Black/African American,All,All,All,All,263,462,33,0.1255
+2023,1,Wyoming,All,Hispanic,All,All,All,All,2476,3786,213,0.086
+2023,1,Wyoming,All,Non-Hispanic White,All,All,All,All,59795,89194,4813,0.0805
+2023,1,Wyoming,All,Other/Unknown,All,All,All,All,,,,
+2023,1,Wyoming,Medicare & Medicaid,All,All,All,All,All,7781,10302,1373,0.1765
+2023,1,Wyoming,Medicare Only,All,All,All,All,All,57582,87532,3976,0.069
