@@ -8,4 +8,4 @@ This repo contains inferential statistics and understands its relevance in drawi
 4. Regression Analysis
 
 
-Datasets are included in Datasets folder (https://github.com/EugeneHsiung/datasci_5_statistics/tree/main/datasets) including the dictionary sets for variable definition. 
+Datasets are included in the Datasets folder [datasets](https://github.com/EugeneHsiung/datasci_5_statistics/tree/main/datasets) including the dictionary sets for variable definition. 
